@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ESP32-DEVKIT-V1")(type "KiCad")(uri "E:/BM 13 Hybrid Evo/Telemetry KiCAD/Telemetry TAZ V1 KICAD/ESP32-DEVKIT-V1")(options "")(descr ""))
+  (lib (name "Lora E220")(type "KiCad")(uri "${KIPRJMOD}/Custom/Lora E220.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Custom Symbol/TinyRTCi2C/Library.pretty")(options "")(descr ""))
+  (lib (name "Tiny RTC i2C")(type "KiCad")(uri "${KIPRJMOD}/Custom Symbol/TinyRTCi2C/Tiny RTC i2C.pretty")(options "")(descr ""))
+  (lib (name "Adafruit ADS1115")(type "KiCad")(uri "${KIPRJMOD}/Custom Symbol/Adafruit ADS1115/Adafruit ADS1115.pretty")(options "")(descr ""))
+  (lib (name "MicroSDCard Module")(type "KiCad")(uri "${KIPRJMOD}/Custom Symbol/MicroSDCard Module/MicroSDCard Module.pretty")(options "")(descr ""))
+)
