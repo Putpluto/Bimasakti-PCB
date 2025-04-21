@@ -1,0 +1,363 @@
+FILE NAME : log_146withDegree.csv
+RPM_FrontRight counts in 100-RPM increments:
+1–101 : 369
+101–201 : 94
+201–301 : 93
+301–401 : 145
+401–501 : 207
+501–601 : 299
+601–701 : 182
+701–801 : 131
+801–901 : 53
+901–1001 : 69
+1001–1101 : 0
+1101–1201 : 0
+1201–1301 : 0
+
+RPM_FrontLeft counts in 100-RPM increments:
+1–101 : 372
+101–201 : 82
+201–301 : 90
+301–401 : 162
+401–501 : 238
+501–601 : 318
+601–701 : 173
+701–801 : 81
+801–901 : 74
+901–1001 : 58
+1001–1101 : 0
+1101–1201 : 0
+1201–1301 : 0
+
+RPM_RearRight counts in 100-RPM increments:
+1–101 : 339
+101–201 : 97
+201–301 : 110
+301–401 : 169
+401–501 : 315
+501–601 : 261
+601–701 : 155
+701–801 : 79
+801–901 : 56
+901–1001 : 17
+1001–1101 : 0
+1101–1201 : 0
+1201–1301 : 0
+
+RPM_RearLeft counts in 100-RPM increments:
+1–101 : 339
+101–201 : 84
+201–301 : 110
+301–401 : 225
+401–501 : 340
+501–601 : 286
+601–701 : 117
+701–801 : 64
+801–901 : 20
+901–1001 : 0
+1001–1101 : 0
+1101–1201 : 0
+1201–1301 : 0
+Average RPM_FrontRight (whole dataset excluding zero): 422.0109622411693
+Average RPM_FrontLeft (whole dataset excluding zero): 415.623786407767
+Average RPM_RearRight (whole dataset excluding zero): 393.49061326658324
+Average RPM_RearLeft (whole dataset excluding zero): 371.44164037854887
+
+
+Average KMPH_FrontRight (non-zero) from index 1 to 4650: 31.63
+Average KMPH_FrontLeft (non-zero) from index 1 to 4650: 31.11
+Average CMA_RPM_FrontRight (non-zero) from index 1 to 4650: 412.95
+Average CMA_RPM_FrontLeft (non-zero) from index 1 to 4650: 406.08
+Average CMA_RPM_RearRight (non-zero) from index 1 to 4650: 385.80
+Average CMA_RPM_RearLeft (non-zero) from index 1 to 4650: 364.63
+
+
+Average KMPH_FrontRight (non-zero) from index 200 to 1500: 40.40
+Average KMPH_FrontLeft (non-zero) from index 200 to 1500: 39.79
+Average CMA_RPM_FrontRight (non-zero) from index 200 to 1500: 527.48
+Average CMA_RPM_FrontLeft (non-zero) from index 200 to 1500: 519.41
+Average CMA_RPM_RearRight (non-zero) from index 200 to 1500: 480.66
+Average CMA_RPM_RearLeft (non-zero) from index 200 to 1500: 453.72
+
+
+
+
+
+
+FILE NAME : log_145withDegree.csv
+RPM_FrontRight counts in 100-RPM increments:
+1–101 : 128
+101–201 : 78
+201–301 : 128
+301–401 : 160
+401–501 : 192
+501–601 : 248
+601–701 : 192
+701–801 : 121
+801–901 : 88
+901–1001 : 35
+1001–1101 : 0
+1101–1201 : 0
+1201–1301 : 0
+
+RPM_FrontLeft counts in 100-RPM increments:
+1–101 : 103
+101–201 : 69
+201–301 : 140
+301–401 : 198
+401–501 : 220
+501–601 : 192
+601–701 : 194
+701–801 : 95
+801–901 : 72
+901–1001 : 58
+1001–1101 : 0
+1101–1201 : 0
+1201–1301 : 0
+
+RPM_RearRight counts in 100-RPM increments:
+1–101 : 117
+101–201 : 88
+201–301 : 122
+301–401 : 192
+401–501 : 246
+501–601 : 266
+601–701 : 136
+701–801 : 86
+801–901 : 91
+901–1001 : 9
+1001–1101 : 0
+1101–1201 : 0
+1201–1301 : 0
+
+RPM_RearLeft counts in 100-RPM increments:
+1–101 : 134
+101–201 : 102
+201–301 : 170
+301–401 : 388
+401–501 : 278
+501–601 : 75
+601–701 : 49
+701–801 : 44
+801–901 : 34
+901–1001 : 10
+1001–1101 : 0
+1101–1201 : 0
+1201–1301 : 0
+Average RPM_FrontRight (whole dataset excluding zero): 477.2773722627737
+Average RPM_FrontLeft (whole dataset excluding zero): 476.80164056674124
+Average RPM_RearRight (whole dataset excluding zero): 453.7346637102735
+Average RPM_RearLeft (whole dataset excluding zero): 366.9657320872274
+
+
+Average KMPH_FrontRight (non-zero) from index 1 to 5226: 36.00
+Average KMPH_FrontLeft (non-zero) from index 1 to 5226: 35.91
+Average CMA_RPM_FrontRight (non-zero) from index 1 to 5226: 470.02
+Average CMA_RPM_FrontLeft (non-zero) from index 1 to 5226: 468.86
+Average CMA_RPM_RearRight (non-zero) from index 1 to 5226: 446.41
+Average CMA_RPM_RearLeft (non-zero) from index 1 to 5226: 359.26
+
+
+Average KMPH_FrontRight (non-zero) from index 2660 to 4000: 37.41
+Average KMPH_FrontLeft (non-zero) from index 2660 to 4000: 36.85
+Average CMA_RPM_FrontRight (non-zero) from index 2660 to 4000: 488.39
+Average CMA_RPM_FrontLeft (non-zero) from index 2660 to 4000: 481.04
+Average CMA_RPM_RearRight (non-zero) from index 2660 to 4000: 462.17
+Average CMA_RPM_RearLeft (non-zero) from index 2660 to 4000: 373.25
+
+
+
+
+
+
+FILE NAME : log_126withDegree.csv
+RPM_FrontRight counts in 100-RPM increments:
+1–101 : 152
+101–201 : 165
+201–301 : 432
+301–401 : 690
+401–501 : 707
+501–601 : 650
+601–701 : 297
+701–801 : 332
+801–901 : 202
+901–1001 : 135
+1001–1101 : 2
+1101–1201 : 0
+1201–1301 : 0
+
+RPM_FrontLeft counts in 100-RPM increments:
+1–101 : 179
+101–201 : 173
+201–301 : 482
+301–401 : 763
+401–501 : 796
+501–601 : 470
+601–701 : 252
+701–801 : 242
+801–901 : 261
+901–1001 : 172
+1001–1101 : 15
+1101–1201 : 0
+1201–1301 : 0
+
+RPM_RearRight counts in 100-RPM increments:
+1–101 : 157
+101–201 : 176
+201–301 : 568
+301–401 : 815
+401–501 : 609
+501–601 : 530
+601–701 : 244
+701–801 : 312
+801–901 : 255
+901–1001 : 98
+1001–1101 : 0
+1101–1201 : 0
+1201–1301 : 0
+
+RPM_RearLeft counts in 100-RPM increments:
+1–101 : 310
+101–201 : 280
+201–301 : 567
+301–401 : 1050
+401–501 : 677
+501–601 : 266
+601–701 : 152
+701–801 : 155
+801–901 : 88
+901–1001 : 14
+1001–1101 : 4
+1101–1201 : 0
+1201–1301 : 0
+Average RPM_FrontRight (whole dataset excluding zero): 479.63974495217855
+Average RPM_FrontLeft (whole dataset excluding zero): 470.23784494086726
+Average RPM_RearRight (whole dataset excluding zero): 460.4845908607864
+Average RPM_RearLeft (whole dataset excluding zero): 372.89166432781366
+
+
+Average KMPH_FrontRight (non-zero) from index 1 to 7880: 36.70
+Average KMPH_FrontLeft (non-zero) from index 1 to 7880: 35.80
+Average CMA_RPM_FrontRight (non-zero) from index 1 to 7880: 479.14
+Average CMA_RPM_FrontLeft (non-zero) from index 1 to 7880: 467.37
+Average CMA_RPM_RearRight (non-zero) from index 1 to 7880: 461.42
+Average CMA_RPM_RearLeft (non-zero) from index 1 to 7880: 368.73
+
+
+Average KMPH_FrontRight (non-zero) from index 1600 to 3000: 31.46
+Average KMPH_FrontLeft (non-zero) from index 1600 to 3000: 30.35
+Average CMA_RPM_FrontRight (non-zero) from index 1600 to 3000: 410.65
+Average CMA_RPM_FrontLeft (non-zero) from index 1600 to 3000: 396.16
+Average CMA_RPM_RearRight (non-zero) from index 1600 to 3000: 377.78
+Average CMA_RPM_RearLeft (non-zero) from index 1600 to 3000: 361.36
+
+
+Average KMPH_FrontRight (non-zero) from index 4266 to 5628: 35.18
+Average KMPH_FrontLeft (non-zero) from index 4266 to 5628: 34.03
+Average CMA_RPM_FrontRight (non-zero) from index 4266 to 5628: 459.32
+Average CMA_RPM_FrontLeft (non-zero) from index 4266 to 5628: 444.21
+Average CMA_RPM_RearRight (non-zero) from index 4266 to 5628: 429.33
+Average CMA_RPM_RearLeft (non-zero) from index 4266 to 5628: 382.43
+
+
+Average KMPH_FrontRight (non-zero) from index 5795 to 7100: 46.42
+Average KMPH_FrontLeft (non-zero) from index 5795 to 7100: 46.86
+Average CMA_RPM_FrontRight (non-zero) from index 5795 to 7100: 606.06
+Average CMA_RPM_FrontLeft (non-zero) from index 5795 to 7100: 611.72
+Average CMA_RPM_RearRight (non-zero) from index 5795 to 7100: 610.35
+Average CMA_RPM_RearLeft (non-zero) from index 5795 to 7100: 400.97
+
+
+
+
+
+
+FILE NAME : log_179withDegree.csv
+RPM_FrontRight counts in 100-RPM increments:
+1–101 : 163
+101–201 : 198
+201–301 : 1252
+301–401 : 917
+401–501 : 665
+501–601 : 438
+601–701 : 277
+701–801 : 105
+801–901 : 89
+901–1001 : 24
+1001–1101 : 0
+1101–1201 : 0
+1201–1301 : 0
+
+RPM_FrontLeft counts in 100-RPM increments:
+1–101 : 173
+101–201 : 207
+201–301 : 1200
+301–401 : 1003
+401–501 : 677
+501–601 : 416
+601–701 : 248
+701–801 : 107
+801–901 : 96
+901–1001 : 20
+1001–1101 : 0
+1101–1201 : 0
+1201–1301 : 0
+
+RPM_RearRight counts in 100-RPM increments:
+1–101 : 169
+101–201 : 207
+201–301 : 1276
+301–401 : 976
+401–501 : 691
+501–601 : 433
+601–701 : 207
+701–801 : 95
+801–901 : 98
+901–1001 : 10
+1001–1101 : 4
+1101–1201 : 0
+1201–1301 : 0
+
+RPM_RearLeft counts in 100-RPM increments:
+1–101 : 288
+101–201 : 416
+201–301 : 1491
+301–401 : 1091
+401–501 : 522
+501–601 : 118
+601–701 : 13
+701–801 : 17
+801–901 : 7
+901–1001 : 5
+1001–1101 : 2
+1101–1201 : 0
+1201–1301 : 0
+Average RPM_FrontRight (whole dataset excluding zero): 381.1356589147287
+Average RPM_FrontLeft (whole dataset excluding zero): 378.68266216542077
+Average RPM_RearRight (whole dataset excluding zero): 373.53960633701394
+Average RPM_RearLeft (whole dataset excluding zero): 294.50125944584386
+
+
+Average KMPH_FrontRight (non-zero) from index 1 to 6457: 29.10
+Average KMPH_FrontLeft (non-zero) from index 1 to 6457: 28.90
+Average CMA_RPM_FrontRight (non-zero) from index 1 to 6457: 379.96
+Average CMA_RPM_FrontLeft (non-zero) from index 1 to 6457: 377.33
+Average CMA_RPM_RearRight (non-zero) from index 1 to 6457: 372.63
+Average CMA_RPM_RearLeft (non-zero) from index 1 to 6457: 293.95
+
+
+Average KMPH_FrontRight (non-zero) from index 1800 to 4100: 33.44
+Average KMPH_FrontLeft (non-zero) from index 1800 to 4100: 32.85
+Average CMA_RPM_FrontRight (non-zero) from index 1800 to 4100: 436.56
+Average CMA_RPM_FrontLeft (non-zero) from index 1800 to 4100: 428.82
+Average CMA_RPM_RearRight (non-zero) from index 1800 to 4100: 428.08
+Average CMA_RPM_RearLeft (non-zero) from index 1800 to 4100: 297.93
+
+
+Average KMPH_FrontRight (non-zero) from index 4542 to 6245: 23.97
+Average KMPH_FrontLeft (non-zero) from index 4542 to 6245: 24.61
+Average CMA_RPM_FrontRight (non-zero) from index 4542 to 6245: 312.91
+Average CMA_RPM_FrontLeft (non-zero) from index 4542 to 6245: 321.21
+Average CMA_RPM_RearRight (non-zero) from index 4542 to 6245: 306.93
+Average CMA_RPM_RearLeft (non-zero) from index 4542 to 6245: 308.37
+
