@@ -1,0 +1,65 @@
+```csharp
+using System;
+using System.Globalization;
+using System.Threading;
+
+namespace TermissonBot
+{
+    class Program
+    {
+        // Columns to match your DataFrame:
+        // Timestamp, Suspension1, Suspension2, Suspension3, Suspension4,
+        // Steering, RPM_FrontRight, RPM_FrontLeft, RPM_RearRight, RPM_RearLeft,
+        // Theta, Derajat, TPS, GPSS, RPM
+
+        static void Main(string[] args)
+        {
+            double t = 0.0;
+            Console.WriteLine("TermissonBot starting...");
+
+            // Print header row (optional):
+            Console.WriteLine("Timestamp,Suspension1,Suspension2,Suspension3,Suspension4," +
+                              "Steering,RPM_FrontRight,RPM_FrontLeft,RPM_RearRight,RPM_RearLeft," +
+                              "Theta,Derajat,TPS,GPSS,RPM");
+
+            while (true)
+            {
+                // Use sine waves, each with small phase offsets or scaling.
+                double suspension1 = Math.Sin(t);
+                double suspension2 = Math.Sin(t + 0.5);
+                double suspension3 = Math.Sin(t + 1.0);
+                double suspension4 = Math.Sin(t + 1.5);
+                double steering    = Math.Sin(t + 2.0) * 60;      // some range like ±60
+                double rpmFrontRt  = Math.Sin(t + 2.5) * 1000;    // up to ~1000
+                double rpmFrontLt  = Math.Sin(t + 3.0) * 1000;
+                double rpmRearRt   = Math.Sin(t + 3.5) * 1000;
+                double rpmRearLt   = Math.Sin(t + 4.0) * 1000;
+                double theta       = Math.Sin(t + 4.5) * 90;      // up to ±90 deg
+                double derajat     = Math.Sin(t + 5.0) * 60;      // ±60 deg
+                double tps         = (Math.Sin(t + 5.5) + 1) * 2.5; // 0..5 range
+                double gpss        = Math.Abs(Math.Sin(t + 6.0)) * 60; // 0..60
+                double rpm         = Math.Abs(Math.Sin(t + 6.5)) * 13500;
+
+                // Use a timestamp in seconds
+                double timestamp = t;
+
+                // Generate CSV row
+                string row = string.Format(CultureInfo.InvariantCulture,
+                    "{0:F2},{1:F3},{2:F3},{3:F3},{4:F3}," +
+                    "{5:F1},{6:F1},{7:F1},{8:F1},{9:F1}," +
+                    "{10:F1},{11:F1},{12:F2},{13:F1},{14:F1}",
+                    timestamp, suspension1, suspension2, suspension3, suspension4,
+                    steering, rpmFrontRt, rpmFrontLt, rpmRearRt, rpmRearLt,
+                    theta, derajat, tps, gpss, rpm);
+
+                // Send to console (or serial port, etc.)
+                Console.WriteLine(row);
+
+                // Increment time and pause
+                t += 0.1;
+                Thread.Sleep(100);
+            }
+        }
+    }
+}
+```
