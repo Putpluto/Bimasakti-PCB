@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "D:/bima/Bimasakti-PCB/Bimasakti BM-13 EVO/Power Delivery Management/PDM Motherboard/Custom library/Library.pretty")(options "")(descr ""))
+)
