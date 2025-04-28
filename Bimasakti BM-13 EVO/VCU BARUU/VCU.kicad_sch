@@ -506,8 +506,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U1"
-				(at 0 66.04 0)
+			(property "Reference" "U"
+				(at 0 64.77 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -515,14 +515,14 @@
 				)
 			)
 			(property "Value" "Teensy4.1"
-				(at 0 63.5 0)
+				(at 0 62.23 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" "teensy:Teensy41"
+			(property "Footprint" ""
 				(at -10.16 10.16 0)
 				(effects
 					(font
@@ -2162,7 +2162,7 @@
 				)
 			)
 		)
-		(property "Footprint" "teensy4.1:Teensy41"
+		(property "Footprint" ""
 			(at 100.33 101.6 0)
 			(effects
 				(font
