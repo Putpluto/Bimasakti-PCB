@@ -2299,6 +2299,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 40.64) (xy 30.48 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04372741-cf09-4587-bda3-b017af45b224")
+	)
+	(wire
+		(pts
 			(xy 30.48 46.99) (xy 30.48 40.64)
 		)
 		(stroke
@@ -2746,6 +2756,16 @@
 			(type default)
 		)
 		(uuid "7aff2343-37d1-448e-adf8-ab27b71be00e")
+	)
+	(wire
+		(pts
+			(xy 29.21 38.1) (xy 30.48 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bc59c82-11c5-4d55-9fff-62dd3627e98e")
 	)
 	(wire
 		(pts
@@ -4607,7 +4627,7 @@
 				)
 			)
 		)
-		(property "Value" "390"
+		(property "Value" "220"
 			(at 118.364 50.8 90)
 			(effects
 				(font
@@ -4635,6 +4655,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 118.11 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 118.11 48.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5177,7 +5206,7 @@
 				)
 			)
 		)
-		(property "Value" "12uH"
+		(property "Value" "4.7uH"
 			(at 124.46 29.21 90)
 			(effects
 				(font
@@ -5244,7 +5273,7 @@
 				)
 			)
 		)
-		(property "Value" "1.5k"
+		(property "Value" "3k"
 			(at 128.27 50.546 90)
 			(effects
 				(font

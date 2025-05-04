@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_Library")(type "KiCad")(uri "D:/bima/Bimasakti-PCB/Bimasakti BM-13 EVO/PCB/Power Delivery management/Custom Symbols/symbols/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "SAMWHA SFCB7050-4R7 Induktor SMD 4.7uH")(type "KiCad")(uri "D:/bima/Bimasakti-PCB/Bimasakti BM-13 EVO/PCB/Power Delivery management/Custom Symbols/symbols/SAMWHA SFCB7050-4R7 Induktor SMD 4.7uH.kicad_sym")(options "")(descr ""))
+)
