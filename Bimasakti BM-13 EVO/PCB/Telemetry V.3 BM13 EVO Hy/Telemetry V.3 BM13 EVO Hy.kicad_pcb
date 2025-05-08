@@ -2165,6 +2165,18 @@
 		)
 		(embedded_fonts no)
 		(model "D:/Arjunda/Library/kicad/74LVC125APW,118/TSSOP14_SOT402-1_NEX.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/Library/74LVC125APW,118/TSSOP14_SOT402-1_NEX.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2798,6 +2810,7 @@
 		)
 		(embedded_fonts no)
 		(model "D:/Arjunda/Library/kicad/SDCARD/SDCard Socket/MSD-4-A.step"
+			(hide yes)
 			(offset
 				(xyz -7.5 -7.5 0.5)
 			)
@@ -2806,6 +2819,17 @@
 			)
 			(rotate
 				(xyz 90 -180 -180)
+			)
+		)
+		(model "${KIPRJMOD}/Library/SDCard Socket/MSD-4-A.step"
+			(offset
+				(xyz -7.5 -7.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -4450,6 +4474,18 @@
 		)
 		(embedded_fonts no)
 		(model "D:/Arjunda/Library/kicad/DS3231SN#/DS3231SN_.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/Library/DS3231SN#/DS3231SN_.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6514,8 +6550,20 @@
 		)
 		(embedded_fonts no)
 		(model "D:/Arjunda/Library/kicad/ESP32/ESP32_DevKitV1.step"
+			(hide yes)
 			(offset
 				(xyz 11.75 -23.5 6)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
+		(model "${KIPRJMOD}/Library/ESP32/ESP32_DevKitV1.step"
+			(offset
+				(xyz 11.5 -23.5 10)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -7413,8 +7461,20 @@
 		)
 		(embedded_fonts no)
 		(model "D:/Arjunda/Library/Inventor 3d/LORA E220/E220-900T22D.step"
+			(hide yes)
 			(offset
 				(xyz 14.75 12.5 12.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
+		(model "${KIPRJMOD}/Library/Lora E220-900T22D/E220-900T22D.step"
+			(offset
+				(xyz 14.75 12.5 13)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -9546,6 +9606,7 @@
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Battery.3dshapes/BatteryHolder_MYOUNG_BS-07-A1BJ001_CR2032.wrl"
+			(hide yes)
 			(offset
 				(xyz 0 0 0)
 			)
@@ -9557,6 +9618,18 @@
 			)
 		)
 		(model "D:/Arjunda/Library/Inventor 3d/CR2032/KLS5-CR2032-01 battery holder.stp"
+			(hide yes)
+			(offset
+				(xyz 12.5 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
+		(model "${KIPRJMOD}/Library/CR2032/KLS5-CR2032-01 battery holder.stp"
 			(offset
 				(xyz 12.5 0 0)
 			)
