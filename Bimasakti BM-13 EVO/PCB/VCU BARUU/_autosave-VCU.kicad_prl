@@ -58,7 +58,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Torque Vectoring Board.kicad_prl",
+    "filename": "VCU.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
