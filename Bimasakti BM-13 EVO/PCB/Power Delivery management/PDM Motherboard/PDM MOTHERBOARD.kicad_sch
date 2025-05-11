@@ -978,6 +978,113 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mechanical:MountingHole_Pad"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole_Pad"
+				(at 0 4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole with connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*Pad*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_Pad_0_1"
+				(circle
+					(center 0 1.27)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_Pad_1_1"
+				(pin input line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "New_Library:AOD4407"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1354,6 +1461,12 @@
 		)
 	)
 	(junction
+		(at 135.89 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "12f9bdad-80cc-414c-adfa-d0269d78d06b")
+	)
+	(junction
 		(at 91.44 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1390,6 +1503,12 @@
 		(uuid "6f3aeb4b-b93e-42c4-8ecb-864ac40a7735")
 	)
 	(junction
+		(at 129.54 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "77350f54-36af-42ed-841d-25e5ac6d18f6")
+	)
+	(junction
 		(at 100.33 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1414,6 +1533,12 @@
 		(uuid "bda8a5f7-f9ac-4350-815a-35def52e8c78")
 	)
 	(junction
+		(at 38.1 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c0dee2dd-82a2-4486-ae70-82ae41f3b6db")
+	)
+	(junction
 		(at 101.6 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1430,6 +1555,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d736f960-8c05-4f99-9a43-c69f4d96817d")
+	)
+	(junction
+		(at 142.24 137.16)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "de9353b1-a11a-4f92-86f7-bf86f8601f67")
 	)
 	(junction
 		(at 40.64 82.55)
@@ -1529,6 +1660,16 @@
 	)
 	(wire
 		(pts
+			(xy 129.54 137.16) (xy 135.89 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ce0e51d-619c-422f-a7a9-8d76500bfe31")
+	)
+	(wire
+		(pts
 			(xy 40.64 82.55) (xy 41.91 82.55)
 		)
 		(stroke
@@ -1596,6 +1737,16 @@
 			(type default)
 		)
 		(uuid "45cddf4c-777c-4f1d-b2b6-cd54f6edbee3")
+	)
+	(wire
+		(pts
+			(xy 135.89 137.16) (xy 142.24 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48cd1bf2-c762-49f9-a2ef-e42eeae7104d")
 	)
 	(wire
 		(pts
@@ -1709,6 +1860,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 137.16) (xy 129.54 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "949f650a-23b7-4d9b-9836-8cb302841b81")
+	)
+	(wire
+		(pts
 			(xy 144.78 77.47) (xy 149.86 77.47)
 		)
 		(stroke
@@ -1749,6 +1910,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 82.55) (xy 38.1 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f7eda7e-1766-44b6-8ca8-6691c6f8dcd2")
+	)
+	(wire
+		(pts
 			(xy 101.6 50.8) (xy 104.14 50.8)
 		)
 		(stroke
@@ -1756,6 +1927,26 @@
 			(type default)
 		)
 		(uuid "a15956a4-9185-495d-897e-8fac2c935542")
+	)
+	(wire
+		(pts
+			(xy 127 138.43) (xy 127 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1c05758-8b10-4113-93c4-5d9479f068ed")
+	)
+	(wire
+		(pts
+			(xy 142.24 137.16) (xy 148.59 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a214492d-ed67-4382-90d2-2d952db86ec9")
 	)
 	(wire
 		(pts
@@ -2360,6 +2551,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 129.54 134.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0a36de1b-f2c0-4216-8501-7d87e00d3aee")
+		(property "Reference" "H1"
+			(at 132.08 132.0799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 132.08 134.6199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom"
+			(at 129.54 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 129.54 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8271d83a-4c16-48d0-984f-dcd643cc6c46")
+		)
+		(instances
+			(project ""
+				(path "/82d2afdc-f667-482e-a251-d2e6670c33b7"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
 		(at 67.31 74.93 0)
 		(unit 1)
@@ -2492,6 +2750,73 @@
 			(project "PDM MOTHERBOARD"
 				(path "/82d2afdc-f667-482e-a251-d2e6670c33b7"
 					(reference "12in1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 148.59 134.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0f3f33b8-c4a5-4fd1-a5c5-72bdf1b748fe")
+		(property "Reference" "H4"
+			(at 151.13 132.0799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 151.13 134.6199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom"
+			(at 148.59 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 148.59 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 148.59 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "71501fe6-a615-4cb3-8c92-af094d67aac3")
+		)
+		(instances
+			(project "PDM MOTHERBOARD"
+				(path "/82d2afdc-f667-482e-a251-d2e6670c33b7"
+					(reference "H4")
 					(unit 1)
 				)
 			)
@@ -2966,6 +3291,73 @@
 			(project "PDM MOTHERBOARD"
 				(path "/82d2afdc-f667-482e-a251-d2e6670c33b7"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 135.89 134.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "40efccbe-2ecd-4bed-a583-f3cad1b4b89d")
+		(property "Reference" "H2"
+			(at 138.43 132.0799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 138.43 134.6199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom"
+			(at 135.89 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 135.89 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 135.89 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "30987cc6-4d89-42ce-a778-c8b15bff62cd")
+		)
+		(instances
+			(project "PDM MOTHERBOARD"
+				(path "/82d2afdc-f667-482e-a251-d2e6670c33b7"
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -4077,6 +4469,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 38.1 83.82 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a83d3adb-6812-4779-b270-dc0168dd0c7d")
+		(property "Reference" "#PWR012"
+			(at 38.1 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 38.1 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 38.1 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1371c521-fb7b-4940-b4f4-c2e437940245")
+		)
+		(instances
+			(project "PDM MOTHERBOARD"
+				(path "/82d2afdc-f667-482e-a251-d2e6670c33b7"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
 		(at 110.49 96.52 0)
 		(unit 1)
@@ -4552,6 +5011,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 142.24 134.62 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f293ccad-b3c3-480b-a7c3-c8310600013e")
+		(property "Reference" "H3"
+			(at 144.78 132.0799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 144.78 134.6199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO7380_Pad_TopBottom"
+			(at 142.24 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.24 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 142.24 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1d15134c-5422-4270-bfcd-e23468d579e5")
+		)
+		(instances
+			(project "PDM MOTHERBOARD"
+				(path "/82d2afdc-f667-482e-a251-d2e6670c33b7"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:Fuse")
 		(at 97.79 77.47 90)
 		(unit 1)
@@ -4613,6 +5139,73 @@
 			(project "PDM MOTHERBOARD"
 				(path "/82d2afdc-f667-482e-a251-d2e6670c33b7"
 					(reference "F5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 127 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fac56574-9ab5-4809-abb5-f17ef92fd8a6")
+		(property "Reference" "#PWR011"
+			(at 127 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 127 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 127 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 127 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bf23b6d3-1f08-4ce8-8061-dbba881d189b")
+		)
+		(instances
+			(project "PDM MOTHERBOARD"
+				(path "/82d2afdc-f667-482e-a251-d2e6670c33b7"
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
