@@ -1,4 +1,4 @@
-25212450184131236
+25215943620555988
 0_MCU
 STM32H7XX
 
@@ -6,6 +6,20 @@ STM32H7XX
 0
 88
 88
+0_bno055
+0_BNO055
+
+
+0
+10
+10
+0_bno055
+bno055
+
+
+0
+0
+0
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
