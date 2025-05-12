@@ -222,6 +222,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.5,
+          "drill": 0.25
         }
       ],
       "zones_allow_external_fillets": false
@@ -505,7 +509,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../Assambly VCU/Telemetry V.3 BM13 EVO Hy.step",
       "svg": "",
       "vrml": ""
     },
