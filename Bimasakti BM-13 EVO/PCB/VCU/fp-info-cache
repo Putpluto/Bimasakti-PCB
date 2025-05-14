@@ -1,4 +1,4 @@
-25717702964778474
+25721197334999016
 74LVC125APW,118
 TSSOP14_SOT402-1_NEX
 
@@ -2694,6 +2694,13 @@ speaker CUI
 0
 2
 2
+CAN Tranciver
+SOIC127P599X175-8N
+
+
+0
+8
+8
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -91860,6 +91867,13 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+Relay TE Small 5 Amp
+RELAY8-TH_NON-LATCH_1-COIL
+
+IM06TS 
+0
+8
+8
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
