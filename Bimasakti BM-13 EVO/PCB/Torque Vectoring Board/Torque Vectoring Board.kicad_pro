@@ -190,7 +190,8 @@
         0.0,
         0.15,
         0.254,
-        0.508
+        0.508,
+        0.8
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -505,7 +506,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Torque Vectoring Board.step",
       "svg": "",
       "vrml": ""
     },
