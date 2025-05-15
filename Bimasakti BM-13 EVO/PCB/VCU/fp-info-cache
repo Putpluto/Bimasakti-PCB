@@ -1,4 +1,4 @@
-25721197334999016
+25724691976879683
 74LVC125APW,118
 TSSOP14_SOT402-1_NEX
 
@@ -20,6 +20,13 @@ TSSOP14_SOT402-1_NEX-M
 0
 14
 14
+ADS1115
+MSOP10
+<b>10 Lead Platic MSOP</b><p>Source: http://www.linear.com .. LT1996
+
+0
+10
+10
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -68501,6 +68508,13 @@ module pcb
 0
 7
 7
+Mosfet
+SOT-23-3
+
+
+0
+3
+3
 Motors
 Vybronics_VZ30C1T8219732L
 Vibration motor, 2.3-3.2V, 14000rpm, 0.7G, https://www.vybronics.com/wp-content/uploads/datasheet-files/Vybronics-VZ30C1T8219732L-datasheet.pdf
