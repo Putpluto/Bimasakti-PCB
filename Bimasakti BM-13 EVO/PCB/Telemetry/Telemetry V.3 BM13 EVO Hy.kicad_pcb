@@ -346,7 +346,7 @@
 		(descr "Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)")
 		(tags "resistor array")
 		(property "Reference" "RN1"
-			(at 0 -2.8 0)
+			(at 0.05 -2.4 0)
 			(layer "F.SilkS")
 			(uuid "31017de4-a09b-4960-9d35-ff0b44e66222")
 			(effects
@@ -1163,7 +1163,7 @@
 		(at 103.800052 82.25)
 		(tags "74LVC125APW_118 ")
 		(property "Reference" "U2"
-			(at -9.8375 5 0)
+			(at -0.100052 0.75 0)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "2d713f90-8bb2-450f-919b-862707492b38")
@@ -3999,7 +3999,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C3"
-			(at -2.5 -0.25 0)
+			(at 0.5 -1.65 0)
 			(layer "F.SilkS")
 			(uuid "69ef8266-b5b1-4933-84fc-df754ba6e9da")
 			(effects
@@ -6046,13 +6046,35 @@
 		(embedded_fonts no)
 		(model "D:/Arjunda/Library/kicad/ESP32/ESP32_DevKitV1.step"
 			(offset
-				(xyz 11.75 -23.5 6)
+				(xyz 11.75 -23.5 8.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
 				(xyz -0 -0 -90)
+			)
+		)
+		(model "D:/Arjunda/Library/Inventor 3d/pin header/15-Pin Header - Female - 2.54mm.step"
+			(offset
+				(xyz 12.75 -20.1 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
+			)
+		)
+		(model "D:/Arjunda/Library/Inventor 3d/pin header/15-Pin Header - Female - 2.54mm.step"
+			(offset
+				(xyz -12.75 -20 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
 			)
 		)
 	)
@@ -6264,7 +6286,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C2"
-			(at -2.5 0 0)
+			(at -2.9 0 0)
 			(layer "F.SilkS")
 			(uuid "e2a57d1c-1f59-47e5-80e4-448dd8a81e96")
 			(effects
@@ -6945,13 +6967,35 @@
 		(embedded_fonts no)
 		(model "D:/Arjunda/Library/Inventor 3d/LORA E220/E220-900T22D.step"
 			(offset
-				(xyz 14.75 12.5 12.5)
+				(xyz 14.75 12.5 11)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
 				(xyz -0 -0 -90)
+			)
+		)
+		(model "D:/Arjunda/Library/Inventor 3d/pin header/7-Pin Header - Female - 2.54mm.step"
+			(offset
+				(xyz 1.5 18.15 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
+			)
+		)
+		(model "D:/Arjunda/Library/Inventor 3d/pin header/3-Pin Header - Female - 2.54mm.step"
+			(offset
+				(xyz 33 17.2 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 90)
 			)
 		)
 	)
@@ -8181,6 +8225,7 @@
 		(property "Reference" "J2"
 			(at 0 -2.33 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "31ffbb0a-566f-49f1-875b-b5086533782e")
 			(effects
 				(font
@@ -8434,7 +8479,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C4"
-			(at 0 -1.43 0)
+			(at 2.85 0 0)
 			(layer "F.SilkS")
 			(uuid "8cf011c4-6d12-4e39-bf73-a5a0222c9182")
 			(effects
@@ -10239,7 +10284,7 @@
 		)
 	)
 	(gr_text "32"
-		(at 127.6 68.4 90)
+		(at 127.5 68.1 90)
 		(layer "F.SilkS")
 		(uuid "7a28f799-6891-4202-b12b-f9d8f3318b31")
 		(effects
