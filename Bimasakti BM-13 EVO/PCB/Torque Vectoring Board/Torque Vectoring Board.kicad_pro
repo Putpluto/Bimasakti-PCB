@@ -190,6 +190,7 @@
         0.0,
         0.15,
         0.254,
+        0.35,
         0.508,
         0.8
       ],
@@ -474,7 +475,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.1,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -506,7 +507,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "Torque Vectoring Board.step",
+      "step": "Torque Vectoring Board_v3.step",
       "svg": "",
       "vrml": ""
     },
