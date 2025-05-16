@@ -2107,12 +2107,6 @@
 		(uuid "9dc53acd-8111-44f6-8603-2cba61119176")
 	)
 	(junction
-		(at 119.38 31.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a93ce1da-e50f-4ae7-9b76-87019f487af8")
-	)
-	(junction
 		(at 44.45 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2934,23 +2928,13 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 31.75) (xy 123.19 31.75)
+			(xy 118.11 31.75) (xy 123.19 31.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "c01f042a-b1e1-4573-9a96-f5fe7d9816e7")
-	)
-	(wire
-		(pts
-			(xy 118.11 31.75) (xy 119.38 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c15839e6-4f00-4d19-b430-bd41a3f834ae")
 	)
 	(wire
 		(pts
@@ -4806,73 +4790,6 @@
 			(project "Power Delivery Management_3.3V"
 				(path "/af22792e-0541-4d5c-a586-5d132a154483"
 					(reference "C3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 119.38 31.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "a315e15b-2826-493a-ab9e-c61e48adef72")
-		(property "Reference" "PH1"
-			(at 116.332 30.226 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 121.666 34.798 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TestPoint:TestPoint_Bridge_Pitch2.0mm_Drill0.7mm"
-			(at 124.46 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 124.46 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 119.38 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d3ee17b5-ad9a-4688-8cf2-14ae5156bf82")
-		)
-		(instances
-			(project "Power Delivery Management_3.3V"
-				(path "/af22792e-0541-4d5c-a586-5d132a154483"
-					(reference "PH1")
 					(unit 1)
 				)
 			)
