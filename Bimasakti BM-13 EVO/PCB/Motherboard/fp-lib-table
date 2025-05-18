@@ -5,4 +5,5 @@
   (lib (name "0_FootprintTelemetry")(type "KiCad")(uri "${KIPRJMOD}/Library/footprints/0_FootprintTelemetry")(options "")(descr ""))
   (lib (name "0_FootPrintBPSD")(type "KiCad")(uri "${KIPRJMOD}/Library/footprints/0_FootPrintBPSD")(options "")(descr ""))
   (lib (name "0_FootprintVCU")(type "KiCad")(uri "${KIPRJMOD}/Library/footprints/0_FootprintVCU")(options "")(descr ""))
+  (lib (name "0_Footprint_PNEUMATIC")(type "KiCad")(uri "${KIPRJMOD}/Library/footprints/0_Footprint_PNEUMATIC.pretty")(options "")(descr ""))
 )
