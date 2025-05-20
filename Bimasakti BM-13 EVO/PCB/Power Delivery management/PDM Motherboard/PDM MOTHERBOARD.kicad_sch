@@ -2422,6 +2422,7 @@
 			(embedded_fonts no)
 		)
 	)
+<<<<<<< HEAD
 	(rectangle
 		(start 12.7 121.92)
 		(end 77.47 157.48)
@@ -2496,6 +2497,10 @@
 	)
 	(junction
 		(at 106.68 129.54)
+=======
+	(junction
+		(at 100.33 119.38)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "11b86ff6-3be9-495a-b9dc-2c5d34c9bee2")
@@ -2519,13 +2524,21 @@
 		(uuid "18ce0bba-db42-4ee8-90cf-0b701511b272")
 	)
 	(junction
+<<<<<<< HEAD
 		(at 90.17 99.06)
+=======
+		(at 83.82 88.9)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1e0cc82f-082e-40ac-8e18-120db7418ad4")
 	)
 	(junction
+<<<<<<< HEAD
 		(at 107.95 143.51)
+=======
+		(at 48.26 123.19)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "20436028-96c3-416a-a8cc-9854a8cb1601")
@@ -2579,18 +2592,35 @@
 		(uuid "49236bde-4993-44dd-8ba6-a18e6df953a5")
 	)
 	(junction
+<<<<<<< HEAD
 		(at 25.4 137.16)
+=======
+		(at 26.67 107.95)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "51c0cdec-4b00-476c-80de-0727e07387bd")
 	)
 	(junction
+<<<<<<< HEAD
 		(at 48.26 101.6)
+=======
+		(at 46.99 87.63)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5840edce-f942-4772-870e-5b1cabff6611")
 	)
 	(junction
+<<<<<<< HEAD
+=======
+		(at 31.75 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5b587fc2-0bbd-41cc-95d2-76704a2e765e")
+	)
+	(junction
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(at 111.76 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2627,13 +2657,21 @@
 		(uuid "870589ed-606a-4a10-b136-642465e6bf1c")
 	)
 	(junction
+<<<<<<< HEAD
 		(at 106.68 119.38)
+=======
+		(at 100.33 109.22)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8c4e54be-a699-41ec-b4e2-e7f45ea411df")
 	)
 	(junction
+<<<<<<< HEAD
 		(at 106.68 109.22)
+=======
+		(at 100.33 99.06)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8e0c4be8-5db5-488d-9635-fe87d0798a89")
@@ -2657,19 +2695,26 @@
 		(uuid "9bd24dec-7983-46e8-831c-48c40e18d378")
 	)
 	(junction
+<<<<<<< HEAD
 		(at 90.17 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a0162cc1-d65c-498e-bdc8-8e8072192f03")
 	)
 	(junction
+=======
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(at 92.71 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a024cdfb-1d25-4aa7-9f1b-ee8f5e0d0498")
 	)
 	(junction
+<<<<<<< HEAD
 		(at 106.68 99.06)
+=======
+		(at 100.33 88.9)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a1d60b71-257f-46c5-a709-191a799177b4")
@@ -2681,7 +2726,11 @@
 		(uuid "a74e75ba-e072-42f5-9464-3a81be73e4ee")
 	)
 	(junction
+<<<<<<< HEAD
 		(at 27.94 101.6)
+=======
+		(at 26.67 87.63)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aad760bc-80db-4b1f-8f7f-4626c7df71c3")
@@ -2717,13 +2766,21 @@
 		(uuid "b87d3a8b-53bc-4b57-bf90-cf7bc89c87ad")
 	)
 	(junction
+<<<<<<< HEAD
 		(at 90.17 109.22)
+=======
+		(at 83.82 99.06)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bac6909c-ae10-41a3-8bce-9a17a5265975")
 	)
 	(junction
+<<<<<<< HEAD
 		(at 46.99 137.16)
+=======
+		(at 48.26 107.95)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bf47eaee-b440-4606-879e-f8118a493a1a")
@@ -2765,7 +2822,11 @@
 		(uuid "d5dbf06b-9640-47db-be78-18f98fe85728")
 	)
 	(junction
+<<<<<<< HEAD
 		(at 87.63 99.06)
+=======
+		(at 81.28 88.9)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d736f960-8c05-4f99-9a43-c69f4d96817d")
@@ -2801,7 +2862,11 @@
 		(uuid "f344c5ee-828b-4885-8773-31181c46f270")
 	)
 	(junction
+<<<<<<< HEAD
 		(at 90.17 119.38)
+=======
+		(at 83.82 109.22)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f386681e-b5f4-40a1-b8e6-34ad8f234e1d")
@@ -2814,7 +2879,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 63.5 95.25) (xy 68.58 95.25)
+=======
+			(xy 62.23 81.28) (xy 71.12 81.28)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -2854,7 +2923,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 48.26 139.7) (xy 48.26 140.97)
+=======
+			(xy 49.53 110.49) (xy 49.53 111.76)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -2894,7 +2967,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 62.23 130.81) (xy 71.12 130.81)
+=======
+			(xy 63.5 101.6) (xy 72.39 101.6)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -2914,7 +2991,21 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 62.23 139.7) (xy 48.26 139.7)
+=======
+			(xy 31.75 123.19) (xy 33.02 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0e0346ae-b047-4366-a67e-5d4a68afadd9")
+	)
+	(wire
+		(pts
+			(xy 63.5 110.49) (xy 49.53 110.49)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -2924,7 +3015,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 104.14 101.6) (xy 123.19 101.6)
+=======
+			(xy 97.79 91.44) (xy 116.84 91.44)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -2944,7 +3039,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 68.58 95.25) (xy 68.58 97.79)
+=======
+			(xy 71.12 81.28) (xy 71.12 83.82)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -2954,7 +3053,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 104.14 146.05) (xy 104.14 148.59)
+=======
+			(xy 49.53 125.73) (xy 49.53 132.08)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -2984,7 +3087,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 90.17 129.54) (xy 91.44 129.54)
+=======
+			(xy 83.82 119.38) (xy 85.09 119.38)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -2994,7 +3101,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 121.92 116.84) (xy 130.81 116.84)
+=======
+			(xy 115.57 106.68) (xy 124.46 106.68)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3004,7 +3115,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 123.19 132.08) (xy 104.14 132.08)
+=======
+			(xy 116.84 121.92) (xy 97.79 121.92)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3044,7 +3159,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 90.17 109.22) (xy 90.17 119.38)
+=======
+			(xy 83.82 99.06) (xy 83.82 109.22)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3054,7 +3173,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 48.26 95.25) (xy 48.26 101.6)
+=======
+			(xy 46.99 81.28) (xy 46.99 87.63)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3094,7 +3217,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 106.68 99.06) (xy 123.19 99.06)
+=======
+			(xy 100.33 88.9) (xy 116.84 88.9)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3114,7 +3241,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 106.68 106.68) (xy 106.68 109.22)
+=======
+			(xy 100.33 96.52) (xy 100.33 99.06)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3134,7 +3265,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 121.92 127) (xy 130.81 127)
+=======
+			(xy 115.57 116.84) (xy 124.46 116.84)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3154,7 +3289,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 121.92 106.68) (xy 130.81 106.68)
+=======
+			(xy 115.57 96.52) (xy 124.46 96.52)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3194,7 +3333,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 106.68 129.54) (xy 123.19 129.54)
+=======
+			(xy 100.33 119.38) (xy 116.84 119.38)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3204,7 +3347,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 90.17 119.38) (xy 91.44 119.38)
+=======
+			(xy 83.82 109.22) (xy 85.09 109.22)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3224,7 +3371,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 121.92 91.44) (xy 130.81 91.44)
+=======
+			(xy 115.57 81.28) (xy 124.46 81.28)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3234,7 +3385,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 46.99 101.6) (xy 48.26 101.6)
+=======
+			(xy 45.72 87.63) (xy 46.99 87.63)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3244,6 +3399,29 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
+=======
+			(xy 31.75 107.95) (xy 31.75 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51b7c852-03ee-4139-9824-1b5fb35bd059")
+	)
+	(wire
+		(pts
+			(xy 63.5 90.17) (xy 60.96 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51ba90b8-022c-4262-b9b0-912ecb18f016")
+	)
+	(wire
+		(pts
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(xy 58.42 54.61) (xy 67.31 54.61)
 		)
 		(stroke
@@ -3254,7 +3432,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 25.4 144.78) (xy 25.4 146.05)
+=======
+			(xy 26.67 115.57) (xy 26.67 116.84)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3264,7 +3446,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 104.14 111.76) (xy 123.19 111.76)
+=======
+			(xy 97.79 101.6) (xy 116.84 101.6)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3294,7 +3480,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 90.17 99.06) (xy 90.17 109.22)
+=======
+			(xy 83.82 88.9) (xy 83.82 99.06)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3304,6 +3494,19 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
+=======
+			(xy 26.67 107.95) (xy 31.75 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67505194-26d2-4b7c-ba03-275c251a016b")
+	)
+	(wire
+		(pts
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(xy 63.5 46.99) (xy 66.04 46.99)
 		)
 		(stroke
@@ -3314,7 +3517,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 21.59 137.16) (xy 25.4 137.16)
+=======
+			(xy 22.86 107.95) (xy 26.67 107.95)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3344,7 +3551,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 106.68 91.44) (xy 106.68 99.06)
+=======
+			(xy 100.33 81.28) (xy 100.33 88.9)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3354,7 +3565,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 104.14 101.6) (xy 104.14 104.14)
+=======
+			(xy 97.79 91.44) (xy 97.79 93.98)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3364,7 +3579,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 130.81 138.43) (xy 130.81 139.7)
+=======
+			(xy 72.39 118.11) (xy 72.39 119.38)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3394,6 +3613,7 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 90.17 143.51) (xy 92.71 143.51)
 		)
 		(stroke
@@ -3405,6 +3625,9 @@
 	(wire
 		(pts
 			(xy 123.19 121.92) (xy 104.14 121.92)
+=======
+			(xy 116.84 111.76) (xy 97.79 111.76)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3414,6 +3637,7 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 33.02 31.75) (xy 36.83 31.75)
 		)
 		(stroke
@@ -3424,6 +3648,8 @@
 	)
 	(wire
 		(pts
+=======
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(xy 92.71 60.96) (xy 92.71 63.5)
 		)
 		(stroke
@@ -3434,7 +3660,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 87.63 99.06) (xy 90.17 99.06)
+=======
+			(xy 81.28 88.9) (xy 83.82 88.9)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3474,7 +3704,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 104.14 132.08) (xy 104.14 134.62)
+=======
+			(xy 97.79 121.92) (xy 97.79 124.46)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3484,7 +3718,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 106.68 127) (xy 106.68 129.54)
+=======
+			(xy 100.33 116.84) (xy 100.33 119.38)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3494,7 +3732,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 25.4 137.16) (xy 31.75 137.16)
+=======
+			(xy 31.75 107.95) (xy 33.02 107.95)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3554,7 +3796,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 27.94 101.6) (xy 31.75 101.6)
+=======
+			(xy 26.67 87.63) (xy 30.48 87.63)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3564,7 +3810,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 46.99 130.81) (xy 46.99 137.16)
+=======
+			(xy 48.26 101.6) (xy 48.26 107.95)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3584,7 +3834,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 46.99 137.16) (xy 62.23 137.16)
+=======
+			(xy 48.26 107.95) (xy 63.5 107.95)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3614,7 +3868,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 71.12 130.81) (xy 71.12 132.08)
+=======
+			(xy 72.39 101.6) (xy 72.39 102.87)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3654,7 +3912,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 104.14 111.76) (xy 104.14 114.3)
+=======
+			(xy 97.79 101.6) (xy 97.79 104.14)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3664,7 +3926,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 107.95 143.51) (xy 123.19 143.51)
+=======
+			(xy 48.26 123.19) (xy 63.5 123.19)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3674,7 +3940,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 26.67 101.6) (xy 27.94 101.6)
+=======
+			(xy 22.86 87.63) (xy 26.67 87.63)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3724,7 +3994,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 86.36 95.25) (xy 87.63 95.25)
+=======
+			(xy 80.01 85.09) (xy 81.28 85.09)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3734,7 +4008,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 90.17 119.38) (xy 90.17 129.54)
+=======
+			(xy 83.82 109.22) (xy 83.82 119.38)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3744,7 +4022,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 107.95 138.43) (xy 107.95 143.51)
+=======
+			(xy 48.26 118.11) (xy 48.26 123.19)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3754,7 +4036,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 104.14 121.92) (xy 104.14 124.46)
+=======
+			(xy 97.79 111.76) (xy 97.79 114.3)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3764,7 +4050,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 104.14 146.05) (xy 123.19 146.05)
+=======
+			(xy 49.53 125.73) (xy 63.5 125.73)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3774,7 +4064,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 90.17 99.06) (xy 91.44 99.06)
+=======
+			(xy 83.82 88.9) (xy 85.09 88.9)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3784,7 +4078,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 106.68 119.38) (xy 123.19 119.38)
+=======
+			(xy 100.33 109.22) (xy 116.84 109.22)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3794,7 +4092,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 106.68 109.22) (xy 123.19 109.22)
+=======
+			(xy 100.33 99.06) (xy 116.84 99.06)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3814,7 +4116,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 90.17 109.22) (xy 91.44 109.22)
+=======
+			(xy 83.82 99.06) (xy 85.09 99.06)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3834,7 +4140,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 58.42 104.14) (xy 58.42 105.41)
+=======
+			(xy 60.96 90.17) (xy 60.96 93.98)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3844,7 +4154,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 130.81 91.44) (xy 130.81 95.25)
+=======
+			(xy 124.46 81.28) (xy 124.46 85.09)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3854,7 +4168,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 87.63 95.25) (xy 87.63 99.06)
+=======
+			(xy 81.28 85.09) (xy 81.28 88.9)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3864,7 +4182,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 48.26 101.6) (xy 60.96 101.6)
+=======
+			(xy 46.99 87.63) (xy 63.5 87.63)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3874,7 +4196,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 123.19 138.43) (xy 130.81 138.43)
+=======
+			(xy 63.5 118.11) (xy 72.39 118.11)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3914,6 +4240,7 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 58.42 104.14) (xy 60.96 104.14)
 		)
 		(stroke
@@ -3924,6 +4251,8 @@
 	)
 	(wire
 		(pts
+=======
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(xy 30.48 54.61) (xy 33.02 54.61)
 		)
 		(stroke
@@ -3934,6 +4263,7 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 36.83 31.75) (xy 36.83 33.02)
 		)
 		(stroke
@@ -3944,6 +4274,8 @@
 	)
 	(wire
 		(pts
+=======
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(xy 142.24 60.96) (xy 142.24 63.5)
 		)
 		(stroke
@@ -3954,7 +4286,11 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 106.68 116.84) (xy 106.68 119.38)
+=======
+			(xy 100.33 106.68) (xy 100.33 109.22)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		)
 		(stroke
 			(width 0)
@@ -3984,6 +4320,7 @@
 	)
 	(wire
 		(pts
+<<<<<<< HEAD
 			(xy 90.17 129.54) (xy 90.17 143.51)
 		)
 		(stroke
@@ -3994,6 +4331,8 @@
 	)
 	(wire
 		(pts
+=======
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(xy 161.29 55.88) (xy 161.29 58.42)
 		)
 		(stroke
@@ -4036,7 +4375,11 @@
 	)
 	(global_label "3Vin"
 		(shape input)
+<<<<<<< HEAD
 		(at 21.59 137.16 180)
+=======
+		(at 22.86 107.95 180)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4046,7 +4389,11 @@
 		)
 		(uuid "1ae8513a-cbb4-4ee8-a072-b3c2b55baca3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+<<<<<<< HEAD
 			(at 14.5529 137.16 0)
+=======
+			(at 15.8229 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4102,7 +4449,11 @@
 	)
 	(global_label "12tobuck"
 		(shape input)
+<<<<<<< HEAD
 		(at 26.67 101.6 180)
+=======
+		(at 22.86 87.63 180)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4112,7 +4463,11 @@
 		)
 		(uuid "707efdff-5cfb-4cca-8fe7-d0e2507d42d7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+<<<<<<< HEAD
 			(at 14.9764 101.6 0)
+=======
+			(at 11.1664 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4124,7 +4479,11 @@
 	)
 	(global_label "5Vin"
 		(shape input)
+<<<<<<< HEAD
 		(at 86.36 95.25 180)
+=======
+		(at 80.01 85.09 180)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4134,7 +4493,11 @@
 		)
 		(uuid "840b253f-4808-4448-8768-b9b12e16708a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+<<<<<<< HEAD
 			(at 79.3229 95.25 0)
+=======
+			(at 72.9729 85.09 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4190,7 +4553,11 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+<<<<<<< HEAD
 		(at 104.14 124.46 0)
+=======
+		(at 97.79 114.3 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4199,7 +4566,11 @@
 		(fields_autoplaced yes)
 		(uuid "0931f4f8-9f29-43b7-9550-6eb07d59258a")
 		(property "Reference" "#PWR08"
+<<<<<<< HEAD
 			(at 104.14 130.81 0)
+=======
+			(at 97.79 120.65 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4208,7 +4579,11 @@
 			)
 		)
 		(property "Value" "GND"
+<<<<<<< HEAD
 			(at 104.14 129.54 0)
+=======
+			(at 97.79 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4217,7 +4592,11 @@
 			)
 		)
 		(property "Footprint" ""
+<<<<<<< HEAD
 			(at 104.14 124.46 0)
+=======
+			(at 97.79 114.3 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4226,7 +4605,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 104.14 124.46 0)
+=======
+			(at 97.79 114.3 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4235,7 +4618,11 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+<<<<<<< HEAD
 			(at 104.14 124.46 0)
+=======
+			(at 97.79 114.3 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4522,7 +4909,11 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+<<<<<<< HEAD
 		(at 130.81 116.84 0)
+=======
+		(at 124.46 106.68 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4531,7 +4922,11 @@
 		(fields_autoplaced yes)
 		(uuid "0f1e8885-320e-4d9d-ab66-2528ff53fcd6")
 		(property "Reference" "#PWR024"
+<<<<<<< HEAD
 			(at 130.81 123.19 0)
+=======
+			(at 124.46 113.03 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4540,7 +4935,11 @@
 			)
 		)
 		(property "Value" "GND"
+<<<<<<< HEAD
 			(at 130.81 121.92 0)
+=======
+			(at 124.46 111.76 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4549,7 +4948,11 @@
 			)
 		)
 		(property "Footprint" ""
+<<<<<<< HEAD
 			(at 130.81 116.84 0)
+=======
+			(at 124.46 106.68 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4558,7 +4961,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 130.81 116.84 0)
+=======
+			(at 124.46 106.68 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4567,7 +4974,11 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+<<<<<<< HEAD
 			(at 130.81 116.84 0)
+=======
+			(at 124.46 106.68 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4656,7 +5067,11 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+<<<<<<< HEAD
 		(at 52.07 95.25 90)
+=======
+		(at 50.8 81.28 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4665,7 +5080,11 @@
 		(fields_autoplaced yes)
 		(uuid "10c12843-675d-44fe-9a64-d65f86e34319")
 		(property "Reference" "R1"
+<<<<<<< HEAD
 			(at 52.07 88.9 90)
+=======
+			(at 50.8 74.93 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4673,7 +5092,11 @@
 			)
 		)
 		(property "Value" "1k"
+<<<<<<< HEAD
 			(at 52.07 91.44 90)
+=======
+			(at 50.8 77.47 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4681,7 +5104,11 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+<<<<<<< HEAD
 			(at 52.07 97.028 90)
+=======
+			(at 50.8 83.058 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4690,7 +5117,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 52.07 95.25 0)
+=======
+			(at 50.8 81.28 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4699,7 +5130,11 @@
 			)
 		)
 		(property "Description" "Resistor"
+<<<<<<< HEAD
 			(at 52.07 95.25 0)
+=======
+			(at 50.8 81.28 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4724,15 +5159,26 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
+<<<<<<< HEAD
 		(at 128.27 143.51 0)
+=======
+		(at 68.58 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+<<<<<<< HEAD
 		(uuid "1287b7d2-f63e-4ac1-89b1-75f82deda798")
 		(property "Reference" "5out5"
 			(at 128.778 144.78 0)
+=======
+		(fields_autoplaced yes)
+		(uuid "1287b7d2-f63e-4ac1-89b1-75f82deda798")
+		(property "Reference" "3v3out2"
+			(at 69.85 123.8249 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4741,7 +5187,11 @@
 			)
 		)
 		(property "Value" "~"
+<<<<<<< HEAD
 			(at 129.54 146.05 0)
+=======
+			(at 69.85 125.73 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4750,7 +5200,11 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
+<<<<<<< HEAD
 			(at 128.27 143.51 0)
+=======
+			(at 68.58 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4759,7 +5213,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 128.27 143.51 0)
+=======
+			(at 68.58 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4768,7 +5226,11 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+<<<<<<< HEAD
 			(at 128.27 143.51 0)
+=======
+			(at 68.58 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4785,7 +5247,11 @@
 		(instances
 			(project "PDM MOTHERBOARD"
 				(path "/82d2afdc-f667-482e-a251-d2e6670c33b7"
+<<<<<<< HEAD
 					(reference "5out5")
+=======
+					(reference "3v3out2")
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 					(unit 1)
 				)
 			)
@@ -4860,7 +5326,11 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
+<<<<<<< HEAD
 		(at 119.38 138.43 180)
+=======
+		(at 59.69 118.11 180)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4868,7 +5338,11 @@
 		(dnp no)
 		(uuid "1a19635b-cf65-4ba4-9eac-3ddda6726418")
 		(property "Reference" "D7"
+<<<<<<< HEAD
 			(at 119.888 134.366 0)
+=======
+			(at 60.198 114.046 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4876,7 +5350,11 @@
 			)
 		)
 		(property "Value" "LED"
+<<<<<<< HEAD
 			(at 119.634 136.398 0)
+=======
+			(at 59.944 116.078 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4884,7 +5362,11 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+<<<<<<< HEAD
 			(at 119.38 138.43 0)
+=======
+			(at 59.69 118.11 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4893,7 +5375,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 119.38 138.43 0)
+=======
+			(at 59.69 118.11 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4902,7 +5388,11 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+<<<<<<< HEAD
 			(at 119.38 138.43 0)
+=======
+			(at 59.69 118.11 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4911,7 +5401,11 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+<<<<<<< HEAD
 			(at 119.38 138.43 0)
+=======
+			(at 59.69 118.11 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4936,7 +5430,11 @@
 	)
 	(symbol
 		(lib_id "0_fuse_3557-2:3557-2")
+<<<<<<< HEAD
 		(at 99.06 109.22 0)
+=======
+		(at 92.71 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4944,7 +5442,11 @@
 		(dnp no)
 		(uuid "1b5d3b18-b7f0-4d7b-8f3a-c1f87d2c837a")
 		(property "Reference" "F5"
+<<<<<<< HEAD
 			(at 99.06 102.87 0)
+=======
+			(at 92.71 92.71 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4952,7 +5454,11 @@
 			)
 		)
 		(property "Value" "3557-2"
+<<<<<<< HEAD
 			(at 99.06 105.41 0)
+=======
+			(at 92.71 95.25 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4960,7 +5466,11 @@
 			)
 		)
 		(property "Footprint" "0_FUSE:0_FUSE_3557-2"
+<<<<<<< HEAD
 			(at 99.06 109.22 0)
+=======
+			(at 92.71 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4970,7 +5480,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 99.06 109.22 0)
+=======
+			(at 92.71 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4979,7 +5493,11 @@
 			)
 		)
 		(property "Description" ""
+<<<<<<< HEAD
 			(at 99.06 109.22 0)
+=======
+			(at 92.71 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4988,7 +5506,11 @@
 			)
 		)
 		(property "MF" "Keystone Electronics"
+<<<<<<< HEAD
 			(at 99.06 109.22 0)
+=======
+			(at 92.71 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4998,7 +5520,11 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7.37mm"
+<<<<<<< HEAD
 			(at 99.06 109.22 0)
+=======
+			(at 92.71 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5008,7 +5534,11 @@
 			)
 		)
 		(property "Package" "Nonstandard Keystone"
+<<<<<<< HEAD
 			(at 99.06 109.22 0)
+=======
+			(at 92.71 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5018,7 +5548,11 @@
 			)
 		)
 		(property "Price" "None"
+<<<<<<< HEAD
 			(at 99.06 109.22 0)
+=======
+			(at 92.71 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5028,7 +5562,11 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/3557-2/Keystone/view-part/?ref=eda"
+<<<<<<< HEAD
 			(at 99.06 109.22 0)
+=======
+			(at 92.71 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5038,7 +5576,11 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendation"
+<<<<<<< HEAD
 			(at 99.06 109.22 0)
+=======
+			(at 92.71 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5048,7 +5590,11 @@
 			)
 		)
 		(property "PARTREV" "D"
+<<<<<<< HEAD
 			(at 99.06 109.22 0)
+=======
+			(at 92.71 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5058,7 +5604,11 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/3557-2/Keystone/view-part/?ref=snap"
+<<<<<<< HEAD
 			(at 99.06 109.22 0)
+=======
+			(at 92.71 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5068,7 +5618,11 @@
 			)
 		)
 		(property "MP" "3557-2"
+<<<<<<< HEAD
 			(at 99.06 109.22 0)
+=======
+			(at 92.71 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5078,7 +5632,11 @@
 			)
 		)
 		(property "Description_1" "THM 2 in 1 Auto Blade Holder"
+<<<<<<< HEAD
 			(at 99.06 109.22 0)
+=======
+			(at 92.71 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5088,7 +5646,11 @@
 			)
 		)
 		(property "MANUFACTURER" "Keystone"
+<<<<<<< HEAD
 			(at 99.06 109.22 0)
+=======
+			(at 92.71 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5098,7 +5660,11 @@
 			)
 		)
 		(property "Availability" "In Stock"
+<<<<<<< HEAD
 			(at 99.06 109.22 0)
+=======
+			(at 92.71 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5108,7 +5674,11 @@
 			)
 		)
 		(property "SNAPEDA_PN" "3557-2"
+<<<<<<< HEAD
 			(at 99.06 109.22 0)
+=======
+			(at 92.71 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5140,7 +5710,11 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+<<<<<<< HEAD
 		(at 130.81 95.25 0)
+=======
+		(at 124.46 85.09 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5149,7 +5723,11 @@
 		(fields_autoplaced yes)
 		(uuid "1ebf9e0d-5c4b-4775-b808-c828de765799")
 		(property "Reference" "#PWR022"
+<<<<<<< HEAD
 			(at 130.81 101.6 0)
+=======
+			(at 124.46 91.44 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5158,7 +5736,11 @@
 			)
 		)
 		(property "Value" "GND"
+<<<<<<< HEAD
 			(at 130.81 100.33 0)
+=======
+			(at 124.46 90.17 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5167,7 +5749,11 @@
 			)
 		)
 		(property "Footprint" ""
+<<<<<<< HEAD
 			(at 130.81 95.25 0)
+=======
+			(at 124.46 85.09 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5176,7 +5762,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 130.81 95.25 0)
+=======
+			(at 124.46 85.09 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5185,7 +5775,11 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+<<<<<<< HEAD
 			(at 130.81 95.25 0)
+=======
+			(at 124.46 85.09 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5207,15 +5801,26 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
+<<<<<<< HEAD
 		(at 128.27 119.38 0)
+=======
+		(at 121.92 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+<<<<<<< HEAD
 		(uuid "247edc5b-2d9c-4020-96a7-0a632f8a9806")
 		(property "Reference" "5out3"
 			(at 128.524 120.65 0)
+=======
+		(fields_autoplaced yes)
+		(uuid "247edc5b-2d9c-4020-96a7-0a632f8a9806")
+		(property "Reference" "5out3"
+			(at 123.19 109.8549 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5224,7 +5829,11 @@
 			)
 		)
 		(property "Value" "~"
+<<<<<<< HEAD
 			(at 129.54 121.92 0)
+=======
+			(at 123.19 111.76 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5233,7 +5842,11 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
+<<<<<<< HEAD
 			(at 128.27 119.38 0)
+=======
+			(at 121.92 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5242,7 +5855,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 128.27 119.38 0)
+=======
+			(at 121.92 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5251,7 +5868,11 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+<<<<<<< HEAD
 			(at 128.27 119.38 0)
+=======
+			(at 121.92 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5276,7 +5897,11 @@
 	)
 	(symbol
 		(lib_id "0_fuse_3557-2:3557-2")
+<<<<<<< HEAD
 		(at 99.06 119.38 0)
+=======
+		(at 92.71 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5285,7 +5910,11 @@
 		(fields_autoplaced yes)
 		(uuid "252832c5-60ca-42cb-a347-9dea9ed844f7")
 		(property "Reference" "F6"
+<<<<<<< HEAD
 			(at 99.06 113.03 0)
+=======
+			(at 92.71 102.87 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5293,7 +5922,11 @@
 			)
 		)
 		(property "Value" "3557-2"
+<<<<<<< HEAD
 			(at 99.06 115.57 0)
+=======
+			(at 92.71 105.41 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5301,7 +5934,11 @@
 			)
 		)
 		(property "Footprint" "0_FUSE:0_FUSE_3557-2"
+<<<<<<< HEAD
 			(at 99.06 119.38 0)
+=======
+			(at 92.71 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5311,7 +5948,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 99.06 119.38 0)
+=======
+			(at 92.71 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5320,7 +5961,11 @@
 			)
 		)
 		(property "Description" ""
+<<<<<<< HEAD
 			(at 99.06 119.38 0)
+=======
+			(at 92.71 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5329,7 +5974,11 @@
 			)
 		)
 		(property "MF" "Keystone Electronics"
+<<<<<<< HEAD
 			(at 99.06 119.38 0)
+=======
+			(at 92.71 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5339,7 +5988,11 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7.37mm"
+<<<<<<< HEAD
 			(at 99.06 119.38 0)
+=======
+			(at 92.71 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5349,7 +6002,11 @@
 			)
 		)
 		(property "Package" "Nonstandard Keystone"
+<<<<<<< HEAD
 			(at 99.06 119.38 0)
+=======
+			(at 92.71 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5359,7 +6016,11 @@
 			)
 		)
 		(property "Price" "None"
+<<<<<<< HEAD
 			(at 99.06 119.38 0)
+=======
+			(at 92.71 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5369,7 +6030,11 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/3557-2/Keystone/view-part/?ref=eda"
+<<<<<<< HEAD
 			(at 99.06 119.38 0)
+=======
+			(at 92.71 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5379,7 +6044,11 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendation"
+<<<<<<< HEAD
 			(at 99.06 119.38 0)
+=======
+			(at 92.71 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5389,7 +6058,11 @@
 			)
 		)
 		(property "PARTREV" "D"
+<<<<<<< HEAD
 			(at 99.06 119.38 0)
+=======
+			(at 92.71 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5399,7 +6072,11 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/3557-2/Keystone/view-part/?ref=snap"
+<<<<<<< HEAD
 			(at 99.06 119.38 0)
+=======
+			(at 92.71 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5409,7 +6086,11 @@
 			)
 		)
 		(property "MP" "3557-2"
+<<<<<<< HEAD
 			(at 99.06 119.38 0)
+=======
+			(at 92.71 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5419,7 +6100,11 @@
 			)
 		)
 		(property "Description_1" "THM 2 in 1 Auto Blade Holder"
+<<<<<<< HEAD
 			(at 99.06 119.38 0)
+=======
+			(at 92.71 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5429,7 +6114,11 @@
 			)
 		)
 		(property "MANUFACTURER" "Keystone"
+<<<<<<< HEAD
 			(at 99.06 119.38 0)
+=======
+			(at 92.71 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5439,7 +6128,11 @@
 			)
 		)
 		(property "Availability" "In Stock"
+<<<<<<< HEAD
 			(at 99.06 119.38 0)
+=======
+			(at 92.71 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5449,7 +6142,11 @@
 			)
 		)
 		(property "SNAPEDA_PN" "3557-2"
+<<<<<<< HEAD
 			(at 99.06 119.38 0)
+=======
+			(at 92.71 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5481,7 +6178,11 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
+<<<<<<< HEAD
 		(at 118.11 106.68 180)
+=======
+		(at 111.76 96.52 180)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5489,7 +6190,11 @@
 		(dnp no)
 		(uuid "2725f912-df21-4eeb-b9e2-9f9bc76baa68")
 		(property "Reference" "D9"
+<<<<<<< HEAD
 			(at 116.078 104.394 0)
+=======
+			(at 109.728 94.234 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5497,7 +6202,11 @@
 			)
 		)
 		(property "Value" "LED"
+<<<<<<< HEAD
 			(at 118.872 104.394 0)
+=======
+			(at 112.522 94.234 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5505,7 +6214,11 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+<<<<<<< HEAD
 			(at 118.11 106.68 0)
+=======
+			(at 111.76 96.52 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5514,7 +6227,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 118.11 106.68 0)
+=======
+			(at 111.76 96.52 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5523,7 +6240,11 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+<<<<<<< HEAD
 			(at 118.11 106.68 0)
+=======
+			(at 111.76 96.52 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5532,7 +6253,11 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+<<<<<<< HEAD
 			(at 118.11 106.68 0)
+=======
+			(at 111.76 96.52 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5624,7 +6349,11 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+<<<<<<< HEAD
 		(at 130.81 106.68 0)
+=======
+		(at 124.46 96.52 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5633,7 +6362,11 @@
 		(fields_autoplaced yes)
 		(uuid "311b0771-ace2-4918-9682-2bc9a5d24bcf")
 		(property "Reference" "#PWR023"
+<<<<<<< HEAD
 			(at 130.81 113.03 0)
+=======
+			(at 124.46 102.87 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5642,7 +6375,11 @@
 			)
 		)
 		(property "Value" "GND"
+<<<<<<< HEAD
 			(at 130.81 111.76 0)
+=======
+			(at 124.46 101.6 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5651,7 +6388,11 @@
 			)
 		)
 		(property "Footprint" ""
+<<<<<<< HEAD
 			(at 130.81 106.68 0)
+=======
+			(at 124.46 96.52 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5660,7 +6401,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 130.81 106.68 0)
+=======
+			(at 124.46 96.52 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5669,7 +6414,11 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+<<<<<<< HEAD
 			(at 130.81 106.68 0)
+=======
+			(at 124.46 96.52 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5691,7 +6440,11 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+<<<<<<< HEAD
 		(at 110.49 116.84 90)
+=======
+		(at 104.14 106.68 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5699,7 +6452,11 @@
 		(dnp no)
 		(uuid "35ff3576-a71f-46be-bde8-2b0dff49de34")
 		(property "Reference" "R6"
+<<<<<<< HEAD
 			(at 110.236 112.522 90)
+=======
+			(at 103.886 102.362 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5707,7 +6464,11 @@
 			)
 		)
 		(property "Value" "330R"
+<<<<<<< HEAD
 			(at 110.236 114.808 90)
+=======
+			(at 103.886 104.648 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5715,7 +6476,11 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+<<<<<<< HEAD
 			(at 110.49 118.618 90)
+=======
+			(at 104.14 108.458 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5724,7 +6489,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 110.49 116.84 0)
+=======
+			(at 104.14 106.68 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5733,7 +6502,11 @@
 			)
 		)
 		(property "Description" "Resistor"
+<<<<<<< HEAD
 			(at 110.49 116.84 0)
+=======
+			(at 104.14 106.68 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5758,7 +6531,11 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+<<<<<<< HEAD
 		(at 104.14 114.3 0)
+=======
+		(at 97.79 104.14 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5767,7 +6544,11 @@
 		(fields_autoplaced yes)
 		(uuid "3800c06d-c794-46d2-9a3b-214ce3a96239")
 		(property "Reference" "#PWR07"
+<<<<<<< HEAD
 			(at 104.14 120.65 0)
+=======
+			(at 97.79 110.49 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5776,7 +6557,11 @@
 			)
 		)
 		(property "Value" "GND"
+<<<<<<< HEAD
 			(at 104.14 119.38 0)
+=======
+			(at 97.79 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5785,7 +6570,11 @@
 			)
 		)
 		(property "Footprint" ""
+<<<<<<< HEAD
 			(at 104.14 114.3 0)
+=======
+			(at 97.79 104.14 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5794,7 +6583,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 104.14 114.3 0)
+=======
+			(at 97.79 104.14 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5803,7 +6596,11 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+<<<<<<< HEAD
 			(at 104.14 114.3 0)
+=======
+			(at 97.79 104.14 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5825,7 +6622,11 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+<<<<<<< HEAD
 		(at 110.49 127 90)
+=======
+		(at 104.14 116.84 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5833,7 +6634,11 @@
 		(dnp no)
 		(uuid "3a4fbd29-a92b-43e8-87fd-b8140ab2414b")
 		(property "Reference" "R7"
+<<<<<<< HEAD
 			(at 110.236 123.19 90)
+=======
+			(at 103.886 113.03 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5841,7 +6646,11 @@
 			)
 		)
 		(property "Value" "330R"
+<<<<<<< HEAD
 			(at 110.49 124.968 90)
+=======
+			(at 104.14 114.808 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5849,7 +6658,11 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+<<<<<<< HEAD
 			(at 110.49 128.778 90)
+=======
+			(at 104.14 118.618 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5858,7 +6671,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 110.49 127 0)
+=======
+			(at 104.14 116.84 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5867,7 +6684,11 @@
 			)
 		)
 		(property "Description" "Resistor"
+<<<<<<< HEAD
 			(at 110.49 127 0)
+=======
+			(at 104.14 116.84 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5959,15 +6780,26 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
+<<<<<<< HEAD
 		(at 128.27 129.54 0)
+=======
+		(at 121.92 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+<<<<<<< HEAD
 		(uuid "41a37b5f-6f6e-4584-af8c-345a66466bfd")
 		(property "Reference" "5out2"
 			(at 128.778 131.318 0)
+=======
+		(fields_autoplaced yes)
+		(uuid "41a37b5f-6f6e-4584-af8c-345a66466bfd")
+		(property "Reference" "5out2"
+			(at 123.19 120.0149 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5976,7 +6808,11 @@
 			)
 		)
 		(property "Value" "~"
+<<<<<<< HEAD
 			(at 129.54 132.08 0)
+=======
+			(at 123.19 121.92 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5985,7 +6821,11 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_Nano-Fit_105309-xx02_1x02_P2.50mm_Vertical"
+<<<<<<< HEAD
 			(at 128.27 129.54 0)
+=======
+			(at 121.92 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5994,7 +6834,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 128.27 129.54 0)
+=======
+			(at 121.92 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6003,7 +6847,11 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+<<<<<<< HEAD
 			(at 128.27 129.54 0)
+=======
+			(at 121.92 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6028,7 +6876,11 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+<<<<<<< HEAD
 		(at 68.58 97.79 0)
+=======
+		(at 71.12 83.82 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6037,7 +6889,11 @@
 		(fields_autoplaced yes)
 		(uuid "41a5f720-16e0-4ac2-bc1a-0b2805d39b4d")
 		(property "Reference" "#PWR021"
+<<<<<<< HEAD
 			(at 68.58 104.14 0)
+=======
+			(at 71.12 90.17 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6046,7 +6902,11 @@
 			)
 		)
 		(property "Value" "GND"
+<<<<<<< HEAD
 			(at 68.58 102.87 0)
+=======
+			(at 71.12 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6055,7 +6915,11 @@
 			)
 		)
 		(property "Footprint" ""
+<<<<<<< HEAD
 			(at 68.58 97.79 0)
+=======
+			(at 71.12 83.82 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6064,7 +6928,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 68.58 97.79 0)
+=======
+			(at 71.12 83.82 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6073,7 +6941,11 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+<<<<<<< HEAD
 			(at 68.58 97.79 0)
+=======
+			(at 71.12 83.82 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6094,6 +6966,7 @@
 		)
 	)
 	(symbol
+<<<<<<< HEAD
 		(lib_id "Device:LED")
 		(at 33.02 35.56 270)
 		(unit 1)
@@ -6173,6 +7046,10 @@
 	(symbol
 		(lib_id "Diode:SMAJ5.0A")
 		(at 25.4 140.97 270)
+=======
+		(lib_id "Diode:SMAJ5.0A")
+		(at 26.67 111.76 270)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6180,7 +7057,11 @@
 		(dnp no)
 		(uuid "48dd7b51-ad4c-4997-ba9a-79994ad11198")
 		(property "Reference" "D5"
+<<<<<<< HEAD
 			(at 24.13 138.938 90)
+=======
+			(at 25.4 109.728 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6189,7 +7070,11 @@
 			)
 		)
 		(property "Value" "SMAJ5.0A"
+<<<<<<< HEAD
 			(at 21.336 143.764 90)
+=======
+			(at 22.606 114.554 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6198,7 +7083,11 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
+<<<<<<< HEAD
 			(at 20.32 140.97 0)
+=======
+			(at 21.59 111.76 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6207,7 +7096,11 @@
 			)
 		)
 		(property "Datasheet" "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet"
+<<<<<<< HEAD
 			(at 25.4 139.7 0)
+=======
+			(at 26.67 110.49 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6216,7 +7109,11 @@
 			)
 		)
 		(property "Description" "400W unidirectional Transient Voltage Suppressor, 5.0Vr, SMA(DO-214AC)"
+<<<<<<< HEAD
 			(at 25.4 140.97 0)
+=======
+			(at 26.67 111.76 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6241,7 +7138,11 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+<<<<<<< HEAD
 		(at 48.26 140.97 0)
+=======
+		(at 49.53 111.76 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6250,7 +7151,11 @@
 		(fields_autoplaced yes)
 		(uuid "49097df2-63dc-4ed8-93d9-9f2d0c4bab1f")
 		(property "Reference" "#PWR09"
+<<<<<<< HEAD
 			(at 48.26 147.32 0)
+=======
+			(at 49.53 118.11 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6259,7 +7164,11 @@
 			)
 		)
 		(property "Value" "GND"
+<<<<<<< HEAD
 			(at 48.26 146.05 0)
+=======
+			(at 49.53 116.84 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6268,7 +7177,11 @@
 			)
 		)
 		(property "Footprint" ""
+<<<<<<< HEAD
 			(at 48.26 140.97 0)
+=======
+			(at 49.53 111.76 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6277,7 +7190,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 48.26 140.97 0)
+=======
+			(at 49.53 111.76 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6286,7 +7203,11 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+<<<<<<< HEAD
 			(at 48.26 140.97 0)
+=======
+			(at 49.53 111.76 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6308,7 +7229,11 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
+<<<<<<< HEAD
 		(at 118.11 91.44 180)
+=======
+		(at 111.76 81.28 180)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6317,7 +7242,11 @@
 		(fields_autoplaced yes)
 		(uuid "5c7eac80-4f4f-4e2b-84e3-e6c510e2c9c1")
 		(property "Reference" "D8"
+<<<<<<< HEAD
 			(at 119.6975 83.82 0)
+=======
+			(at 113.3475 73.66 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6325,7 +7254,11 @@
 			)
 		)
 		(property "Value" "LED"
+<<<<<<< HEAD
 			(at 119.6975 86.36 0)
+=======
+			(at 113.3475 76.2 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6333,7 +7266,11 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+<<<<<<< HEAD
 			(at 118.11 91.44 0)
+=======
+			(at 111.76 81.28 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6342,7 +7279,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 118.11 91.44 0)
+=======
+			(at 111.76 81.28 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6351,7 +7292,11 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+<<<<<<< HEAD
 			(at 118.11 91.44 0)
+=======
+			(at 111.76 81.28 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6360,7 +7305,11 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+<<<<<<< HEAD
 			(at 118.11 91.44 0)
+=======
+			(at 111.76 81.28 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6385,7 +7334,11 @@
 	)
 	(symbol
 		(lib_id "0_fuse_3557-2:3557-2")
+<<<<<<< HEAD
 		(at 100.33 143.51 0)
+=======
+		(at 40.64 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6394,7 +7347,11 @@
 		(fields_autoplaced yes)
 		(uuid "5d2e1a39-de56-41a8-8437-d07921529c9c")
 		(property "Reference" "F3"
+<<<<<<< HEAD
 			(at 100.33 137.16 0)
+=======
+			(at 40.64 116.84 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6402,7 +7359,11 @@
 			)
 		)
 		(property "Value" "3557-2"
+<<<<<<< HEAD
 			(at 100.33 139.7 0)
+=======
+			(at 40.64 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6410,7 +7371,11 @@
 			)
 		)
 		(property "Footprint" "0_FUSE:0_FUSE_3557-2"
+<<<<<<< HEAD
 			(at 100.33 143.51 0)
+=======
+			(at 40.64 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6420,7 +7385,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 100.33 143.51 0)
+=======
+			(at 40.64 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6429,7 +7398,11 @@
 			)
 		)
 		(property "Description" ""
+<<<<<<< HEAD
 			(at 100.33 143.51 0)
+=======
+			(at 40.64 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6438,7 +7411,11 @@
 			)
 		)
 		(property "MF" "Keystone Electronics"
+<<<<<<< HEAD
 			(at 100.33 143.51 0)
+=======
+			(at 40.64 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6448,7 +7425,11 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7.37mm"
+<<<<<<< HEAD
 			(at 100.33 143.51 0)
+=======
+			(at 40.64 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6458,7 +7439,11 @@
 			)
 		)
 		(property "Package" "Nonstandard Keystone"
+<<<<<<< HEAD
 			(at 100.33 143.51 0)
+=======
+			(at 40.64 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6468,7 +7453,11 @@
 			)
 		)
 		(property "Price" "None"
+<<<<<<< HEAD
 			(at 100.33 143.51 0)
+=======
+			(at 40.64 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6478,7 +7467,11 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/3557-2/Keystone/view-part/?ref=eda"
+<<<<<<< HEAD
 			(at 100.33 143.51 0)
+=======
+			(at 40.64 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6488,7 +7481,11 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendation"
+<<<<<<< HEAD
 			(at 100.33 143.51 0)
+=======
+			(at 40.64 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6498,7 +7495,11 @@
 			)
 		)
 		(property "PARTREV" "D"
+<<<<<<< HEAD
 			(at 100.33 143.51 0)
+=======
+			(at 40.64 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6508,7 +7509,11 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/3557-2/Keystone/view-part/?ref=snap"
+<<<<<<< HEAD
 			(at 100.33 143.51 0)
+=======
+			(at 40.64 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6518,7 +7523,11 @@
 			)
 		)
 		(property "MP" "3557-2"
+<<<<<<< HEAD
 			(at 100.33 143.51 0)
+=======
+			(at 40.64 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6528,7 +7537,11 @@
 			)
 		)
 		(property "Description_1" "THM 2 in 1 Auto Blade Holder"
+<<<<<<< HEAD
 			(at 100.33 143.51 0)
+=======
+			(at 40.64 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6538,7 +7551,11 @@
 			)
 		)
 		(property "MANUFACTURER" "Keystone"
+<<<<<<< HEAD
 			(at 100.33 143.51 0)
+=======
+			(at 40.64 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6548,7 +7565,11 @@
 			)
 		)
 		(property "Availability" "In Stock"
+<<<<<<< HEAD
 			(at 100.33 143.51 0)
+=======
+			(at 40.64 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6558,7 +7579,11 @@
 			)
 		)
 		(property "SNAPEDA_PN" "3557-2"
+<<<<<<< HEAD
 			(at 100.33 143.51 0)
+=======
+			(at 40.64 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6657,7 +7682,11 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+<<<<<<< HEAD
 		(at 104.14 104.14 0)
+=======
+		(at 97.79 93.98 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6666,7 +7695,11 @@
 		(fields_autoplaced yes)
 		(uuid "6211da28-8503-4072-b6e2-740119bdbd65")
 		(property "Reference" "#PWR05"
+<<<<<<< HEAD
 			(at 104.14 110.49 0)
+=======
+			(at 97.79 100.33 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6675,7 +7708,11 @@
 			)
 		)
 		(property "Value" "GND"
+<<<<<<< HEAD
 			(at 104.14 109.22 0)
+=======
+			(at 97.79 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6684,7 +7721,11 @@
 			)
 		)
 		(property "Footprint" ""
+<<<<<<< HEAD
 			(at 104.14 104.14 0)
+=======
+			(at 97.79 93.98 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6693,7 +7734,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 104.14 104.14 0)
+=======
+			(at 97.79 93.98 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6702,7 +7747,11 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+<<<<<<< HEAD
 			(at 104.14 104.14 0)
+=======
+			(at 97.79 93.98 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6724,7 +7773,11 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+<<<<<<< HEAD
 		(at 104.14 148.59 0)
+=======
+		(at 49.53 132.08 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6733,7 +7786,11 @@
 		(fields_autoplaced yes)
 		(uuid "62158384-0a8a-437a-9d93-0f93d1a30f1b")
 		(property "Reference" "#PWR010"
+<<<<<<< HEAD
 			(at 104.14 154.94 0)
+=======
+			(at 49.53 138.43 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6742,7 +7799,11 @@
 			)
 		)
 		(property "Value" "GND"
+<<<<<<< HEAD
 			(at 104.14 153.67 0)
+=======
+			(at 49.53 137.16 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6751,7 +7812,11 @@
 			)
 		)
 		(property "Footprint" ""
+<<<<<<< HEAD
 			(at 104.14 148.59 0)
+=======
+			(at 49.53 132.08 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6760,7 +7825,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 104.14 148.59 0)
+=======
+			(at 49.53 132.08 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6769,7 +7838,11 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+<<<<<<< HEAD
 			(at 104.14 148.59 0)
+=======
+			(at 49.53 132.08 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6791,7 +7864,11 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+<<<<<<< HEAD
 		(at 110.49 106.68 90)
+=======
+		(at 104.14 96.52 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6799,7 +7876,11 @@
 		(dnp no)
 		(uuid "6ecec081-a76d-4b29-a204-c130e4d0525a")
 		(property "Reference" "R5"
+<<<<<<< HEAD
 			(at 110.49 102.87 90)
+=======
+			(at 104.14 92.71 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6807,7 +7888,11 @@
 			)
 		)
 		(property "Value" "330R"
+<<<<<<< HEAD
 			(at 110.49 104.648 90)
+=======
+			(at 104.14 94.488 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6815,7 +7900,11 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+<<<<<<< HEAD
 			(at 110.49 108.458 90)
+=======
+			(at 104.14 98.298 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6824,7 +7913,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 110.49 106.68 0)
+=======
+			(at 104.14 96.52 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6833,7 +7926,11 @@
 			)
 		)
 		(property "Description" "Resistor"
+<<<<<<< HEAD
 			(at 110.49 106.68 0)
+=======
+			(at 104.14 96.52 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6936,7 +8033,11 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+<<<<<<< HEAD
 		(at 27.94 109.22 0)
+=======
+		(at 26.67 95.25 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6945,7 +8046,11 @@
 		(fields_autoplaced yes)
 		(uuid "78309a76-1b4b-42e8-a3cf-aefbf64ee397")
 		(property "Reference" "#PWR04"
+<<<<<<< HEAD
 			(at 27.94 115.57 0)
+=======
+			(at 26.67 101.6 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6954,7 +8059,11 @@
 			)
 		)
 		(property "Value" "GND"
+<<<<<<< HEAD
 			(at 27.94 114.3 0)
+=======
+			(at 26.67 100.33 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6963,7 +8072,11 @@
 			)
 		)
 		(property "Footprint" ""
+<<<<<<< HEAD
 			(at 27.94 109.22 0)
+=======
+			(at 26.67 95.25 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6972,7 +8085,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 27.94 109.22 0)
+=======
+			(at 26.67 95.25 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6981,7 +8098,11 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+<<<<<<< HEAD
 			(at 27.94 109.22 0)
+=======
+			(at 26.67 95.25 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7003,7 +8124,11 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+<<<<<<< HEAD
 		(at 130.81 127 0)
+=======
+		(at 124.46 116.84 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7012,7 +8137,11 @@
 		(fields_autoplaced yes)
 		(uuid "80fb3e81-79cb-4c4c-8b4f-ebd65551c66e")
 		(property "Reference" "#PWR025"
+<<<<<<< HEAD
 			(at 130.81 133.35 0)
+=======
+			(at 124.46 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7021,7 +8150,11 @@
 			)
 		)
 		(property "Value" "GND"
+<<<<<<< HEAD
 			(at 130.81 132.08 0)
+=======
+			(at 124.46 121.92 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7030,7 +8163,11 @@
 			)
 		)
 		(property "Footprint" ""
+<<<<<<< HEAD
 			(at 130.81 127 0)
+=======
+			(at 124.46 116.84 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7039,7 +8176,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 130.81 127 0)
+=======
+			(at 124.46 116.84 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7048,7 +8189,11 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+<<<<<<< HEAD
 			(at 130.81 127 0)
+=======
+			(at 124.46 116.84 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7070,7 +8215,11 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+<<<<<<< HEAD
 		(at 110.49 91.44 90)
+=======
+		(at 104.14 81.28 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7079,7 +8228,11 @@
 		(fields_autoplaced yes)
 		(uuid "82424d25-c7b1-4437-9ac9-c371c0bed8ac")
 		(property "Reference" "R4"
+<<<<<<< HEAD
 			(at 110.49 85.09 90)
+=======
+			(at 104.14 74.93 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7087,7 +8240,11 @@
 			)
 		)
 		(property "Value" "330R"
+<<<<<<< HEAD
 			(at 110.49 87.63 90)
+=======
+			(at 104.14 77.47 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7095,7 +8252,11 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+<<<<<<< HEAD
 			(at 110.49 93.218 90)
+=======
+			(at 104.14 83.058 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7104,7 +8265,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 110.49 91.44 0)
+=======
+			(at 104.14 81.28 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7113,7 +8278,11 @@
 			)
 		)
 		(property "Description" "Resistor"
+<<<<<<< HEAD
 			(at 110.49 91.44 0)
+=======
+			(at 104.14 81.28 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7138,7 +8307,11 @@
 	)
 	(symbol
 		(lib_id "Diode:SMAJ5.0A")
+<<<<<<< HEAD
 		(at 87.63 102.87 270)
+=======
+		(at 81.28 92.71 270)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7146,7 +8319,11 @@
 		(dnp no)
 		(uuid "84eb5476-48f8-44ea-8880-dd1df826f255")
 		(property "Reference" "D4"
+<<<<<<< HEAD
 			(at 86.36 100.584 90)
+=======
+			(at 80.01 90.424 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7155,7 +8332,11 @@
 			)
 		)
 		(property "Value" "SMAJ5.0A"
+<<<<<<< HEAD
 			(at 82.804 105.664 90)
+=======
+			(at 76.454 95.504 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7164,7 +8345,11 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
+<<<<<<< HEAD
 			(at 82.55 102.87 0)
+=======
+			(at 76.2 92.71 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7173,7 +8358,11 @@
 			)
 		)
 		(property "Datasheet" "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet"
+<<<<<<< HEAD
 			(at 87.63 101.6 0)
+=======
+			(at 81.28 91.44 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7182,7 +8371,11 @@
 			)
 		)
 		(property "Description" "400W unidirectional Transient Voltage Suppressor, 5.0Vr, SMA(DO-214AC)"
+<<<<<<< HEAD
 			(at 87.63 102.87 0)
+=======
+			(at 81.28 92.71 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7207,7 +8400,11 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
+<<<<<<< HEAD
 		(at 118.11 127 180)
+=======
+		(at 111.76 116.84 180)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7215,7 +8412,11 @@
 		(dnp no)
 		(uuid "8b27aeaa-5735-4817-8817-70b28ffff928")
 		(property "Reference" "D11"
+<<<<<<< HEAD
 			(at 118.364 122.936 0)
+=======
+			(at 112.014 112.776 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7223,7 +8424,11 @@
 			)
 		)
 		(property "Value" "LED"
+<<<<<<< HEAD
 			(at 118.618 124.714 0)
+=======
+			(at 112.268 114.554 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7231,7 +8436,11 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+<<<<<<< HEAD
 			(at 118.11 127 0)
+=======
+			(at 111.76 116.84 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7240,7 +8449,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 118.11 127 0)
+=======
+			(at 111.76 116.84 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7249,7 +8462,11 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+<<<<<<< HEAD
 			(at 118.11 127 0)
+=======
+			(at 111.76 116.84 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7258,7 +8475,11 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+<<<<<<< HEAD
 			(at 118.11 127 0)
+=======
+			(at 111.76 116.84 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7283,7 +8504,11 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+<<<<<<< HEAD
 		(at 87.63 106.68 0)
+=======
+		(at 81.28 96.52 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7292,7 +8517,11 @@
 		(fields_autoplaced yes)
 		(uuid "8f6a16b8-b3dd-46c4-87ae-4169ffcf9efc")
 		(property "Reference" "#PWR018"
+<<<<<<< HEAD
 			(at 87.63 113.03 0)
+=======
+			(at 81.28 102.87 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7301,7 +8530,11 @@
 			)
 		)
 		(property "Value" "GND"
+<<<<<<< HEAD
 			(at 87.63 111.76 0)
+=======
+			(at 81.28 101.6 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7310,7 +8543,11 @@
 			)
 		)
 		(property "Footprint" ""
+<<<<<<< HEAD
 			(at 87.63 106.68 0)
+=======
+			(at 81.28 96.52 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7319,7 +8556,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 87.63 106.68 0)
+=======
+			(at 81.28 96.52 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7328,7 +8569,11 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+<<<<<<< HEAD
 			(at 87.63 106.68 0)
+=======
+			(at 81.28 96.52 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7422,7 +8667,11 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+<<<<<<< HEAD
 		(at 130.81 139.7 0)
+=======
+		(at 72.39 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7431,7 +8680,11 @@
 		(fields_autoplaced yes)
 		(uuid "90ee5f2a-042f-40dd-a74f-0ca5543049d3")
 		(property "Reference" "#PWR019"
+<<<<<<< HEAD
 			(at 130.81 146.05 0)
+=======
+			(at 72.39 125.73 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7440,7 +8693,11 @@
 			)
 		)
 		(property "Value" "GND"
+<<<<<<< HEAD
 			(at 130.81 144.78 0)
+=======
+			(at 72.39 124.46 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7449,7 +8706,11 @@
 			)
 		)
 		(property "Footprint" ""
+<<<<<<< HEAD
 			(at 130.81 139.7 0)
+=======
+			(at 72.39 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7458,7 +8719,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 130.81 139.7 0)
+=======
+			(at 72.39 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7467,7 +8732,11 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+<<<<<<< HEAD
 			(at 130.81 139.7 0)
+=======
+			(at 72.39 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7693,7 +8962,11 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
+<<<<<<< HEAD
 		(at 128.27 99.06 0)
+=======
+		(at 121.92 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7701,7 +8974,11 @@
 		(dnp no)
 		(uuid "92a7743c-fee4-4c5d-93e2-d7404c4246d8")
 		(property "Reference" "5out1"
+<<<<<<< HEAD
 			(at 128.524 100.076 0)
+=======
+			(at 125.984 89.408 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7710,7 +8987,11 @@
 			)
 		)
 		(property "Value" "~"
+<<<<<<< HEAD
 			(at 129.54 101.6 0)
+=======
+			(at 123.19 91.44 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7719,7 +9000,11 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
+<<<<<<< HEAD
 			(at 128.27 99.06 0)
+=======
+			(at 121.92 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7728,7 +9013,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 128.27 99.06 0)
+=======
+			(at 121.92 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7737,7 +9026,11 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+<<<<<<< HEAD
 			(at 128.27 99.06 0)
+=======
+			(at 121.92 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7762,7 +9055,11 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
+<<<<<<< HEAD
 		(at 118.11 116.84 180)
+=======
+		(at 111.76 106.68 180)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7770,7 +9067,11 @@
 		(dnp no)
 		(uuid "94e830d2-a17b-40ff-8313-e527d706cebc")
 		(property "Reference" "D10"
+<<<<<<< HEAD
 			(at 119.126 112.522 0)
+=======
+			(at 112.776 102.362 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7778,7 +9079,11 @@
 			)
 		)
 		(property "Value" "LED"
+<<<<<<< HEAD
 			(at 118.618 114.3 0)
+=======
+			(at 112.268 104.14 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7786,7 +9091,11 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+<<<<<<< HEAD
 			(at 118.11 116.84 0)
+=======
+			(at 111.76 106.68 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7795,7 +9104,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 118.11 116.84 0)
+=======
+			(at 111.76 106.68 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7804,7 +9117,11 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+<<<<<<< HEAD
 			(at 118.11 116.84 0)
+=======
+			(at 111.76 106.68 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7813,7 +9130,11 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+<<<<<<< HEAD
 			(at 118.11 116.84 0)
+=======
+			(at 111.76 106.68 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7969,15 +9290,26 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
+<<<<<<< HEAD
 		(at 128.27 109.22 0)
+=======
+		(at 121.92 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+<<<<<<< HEAD
 		(uuid "9751e8a8-af51-4c7e-9cc4-a51dab6e7479")
 		(property "Reference" "5out4"
 			(at 128.778 110.236 0)
+=======
+		(fields_autoplaced yes)
+		(uuid "9751e8a8-af51-4c7e-9cc4-a51dab6e7479")
+		(property "Reference" "5out4"
+			(at 123.19 99.6949 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7986,7 +9318,11 @@
 			)
 		)
 		(property "Value" "~"
+<<<<<<< HEAD
 			(at 129.54 111.76 0)
+=======
+			(at 123.19 101.6 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7995,7 +9331,11 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
+<<<<<<< HEAD
 			(at 128.27 109.22 0)
+=======
+			(at 121.92 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8004,7 +9344,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 128.27 109.22 0)
+=======
+			(at 121.92 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8013,7 +9357,11 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+<<<<<<< HEAD
 			(at 128.27 109.22 0)
+=======
+			(at 121.92 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8038,15 +9386,26 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
+<<<<<<< HEAD
 		(at 66.04 101.6 0)
+=======
+		(at 68.58 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
+<<<<<<< HEAD
 		(uuid "9d9f82f2-6216-4bfc-8101-b4198a6bde6a")
 		(property "Reference" "12vout1"
 			(at 66.802 102.87 0)
+=======
+		(fields_autoplaced yes)
+		(uuid "9d9f82f2-6216-4bfc-8101-b4198a6bde6a")
+		(property "Reference" "12vout1"
+			(at 69.85 88.2649 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8055,7 +9414,11 @@
 			)
 		)
 		(property "Value" "~"
+<<<<<<< HEAD
 			(at 67.31 104.14 0)
+=======
+			(at 69.85 90.17 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8064,7 +9427,11 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
+<<<<<<< HEAD
 			(at 66.04 101.6 0)
+=======
+			(at 68.58 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8073,7 +9440,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 66.04 101.6 0)
+=======
+			(at 68.58 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8082,7 +9453,11 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+<<<<<<< HEAD
 			(at 66.04 101.6 0)
+=======
+			(at 68.58 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8107,7 +9482,11 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
+<<<<<<< HEAD
 		(at 58.42 130.81 180)
+=======
+		(at 59.69 101.6 180)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8115,7 +9494,11 @@
 		(dnp no)
 		(uuid "9ef76102-65db-440b-8cce-c8d7c30c95b7")
 		(property "Reference" "D3"
+<<<<<<< HEAD
 			(at 57.658 126.746 0)
+=======
+			(at 58.928 97.536 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8123,7 +9506,11 @@
 			)
 		)
 		(property "Value" "LED"
+<<<<<<< HEAD
 			(at 58.928 128.524 0)
+=======
+			(at 60.198 99.314 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8131,7 +9518,11 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+<<<<<<< HEAD
 			(at 58.42 130.81 0)
+=======
+			(at 59.69 101.6 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8140,7 +9531,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 58.42 130.81 0)
+=======
+			(at 59.69 101.6 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8149,7 +9544,11 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+<<<<<<< HEAD
 			(at 58.42 130.81 0)
+=======
+			(at 59.69 101.6 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8158,7 +9557,11 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+<<<<<<< HEAD
 			(at 58.42 130.81 0)
+=======
+			(at 59.69 101.6 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8183,7 +9586,11 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+<<<<<<< HEAD
 		(at 104.14 134.62 0)
+=======
+		(at 97.79 124.46 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8192,7 +9599,11 @@
 		(fields_autoplaced yes)
 		(uuid "a20b387a-d628-4728-a26a-c687c1bb1812")
 		(property "Reference" "#PWR06"
+<<<<<<< HEAD
 			(at 104.14 140.97 0)
+=======
+			(at 97.79 130.81 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8201,7 +9612,11 @@
 			)
 		)
 		(property "Value" "GND"
+<<<<<<< HEAD
 			(at 104.14 139.7 0)
+=======
+			(at 97.79 129.54 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8210,7 +9625,11 @@
 			)
 		)
 		(property "Footprint" ""
+<<<<<<< HEAD
 			(at 104.14 134.62 0)
+=======
+			(at 97.79 124.46 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8219,7 +9638,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 104.14 134.62 0)
+=======
+			(at 97.79 124.46 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8228,7 +9651,11 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+<<<<<<< HEAD
 			(at 104.14 134.62 0)
+=======
+			(at 97.79 124.46 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8384,7 +9811,11 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+<<<<<<< HEAD
 		(at 71.12 132.08 0)
+=======
+		(at 72.39 102.87 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8393,7 +9824,11 @@
 		(fields_autoplaced yes)
 		(uuid "bbbc34f4-5c37-49db-b9b0-d61168fc4eba")
 		(property "Reference" "#PWR020"
+<<<<<<< HEAD
 			(at 71.12 138.43 0)
+=======
+			(at 72.39 109.22 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8402,7 +9837,11 @@
 			)
 		)
 		(property "Value" "GND"
+<<<<<<< HEAD
 			(at 71.12 137.16 0)
+=======
+			(at 72.39 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8411,7 +9850,11 @@
 			)
 		)
 		(property "Footprint" ""
+<<<<<<< HEAD
 			(at 71.12 132.08 0)
+=======
+			(at 72.39 102.87 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8420,7 +9863,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 71.12 132.08 0)
+=======
+			(at 72.39 102.87 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8429,7 +9876,11 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+<<<<<<< HEAD
 			(at 71.12 132.08 0)
+=======
+			(at 72.39 102.87 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8451,7 +9902,11 @@
 	)
 	(symbol
 		(lib_id "0_fuse_3557-2:3557-2")
+<<<<<<< HEAD
 		(at 99.06 129.54 0)
+=======
+		(at 92.71 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8459,7 +9914,11 @@
 		(dnp no)
 		(uuid "bde18954-7e30-4b07-a360-72cd02f7fb2e")
 		(property "Reference" "F8"
+<<<<<<< HEAD
 			(at 99.06 123.19 0)
+=======
+			(at 92.71 113.03 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8467,7 +9926,11 @@
 			)
 		)
 		(property "Value" "3557-2"
+<<<<<<< HEAD
 			(at 99.06 125.73 0)
+=======
+			(at 92.71 115.57 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8475,7 +9938,11 @@
 			)
 		)
 		(property "Footprint" "0_FUSE:0_FUSE_3557-2"
+<<<<<<< HEAD
 			(at 99.06 129.54 0)
+=======
+			(at 92.71 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8485,7 +9952,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 99.06 129.54 0)
+=======
+			(at 92.71 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8494,7 +9965,11 @@
 			)
 		)
 		(property "Description" ""
+<<<<<<< HEAD
 			(at 99.06 129.54 0)
+=======
+			(at 92.71 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8503,7 +9978,11 @@
 			)
 		)
 		(property "MF" "Keystone Electronics"
+<<<<<<< HEAD
 			(at 99.06 129.54 0)
+=======
+			(at 92.71 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8513,7 +9992,11 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7.37mm"
+<<<<<<< HEAD
 			(at 99.06 129.54 0)
+=======
+			(at 92.71 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8523,7 +10006,11 @@
 			)
 		)
 		(property "Package" "Nonstandard Keystone"
+<<<<<<< HEAD
 			(at 99.06 129.54 0)
+=======
+			(at 92.71 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8533,7 +10020,11 @@
 			)
 		)
 		(property "Price" "None"
+<<<<<<< HEAD
 			(at 99.06 129.54 0)
+=======
+			(at 92.71 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8543,7 +10034,11 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/3557-2/Keystone/view-part/?ref=eda"
+<<<<<<< HEAD
 			(at 99.06 129.54 0)
+=======
+			(at 92.71 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8553,7 +10048,11 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendation"
+<<<<<<< HEAD
 			(at 99.06 129.54 0)
+=======
+			(at 92.71 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8563,7 +10062,11 @@
 			)
 		)
 		(property "PARTREV" "D"
+<<<<<<< HEAD
 			(at 99.06 129.54 0)
+=======
+			(at 92.71 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8573,7 +10076,11 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/3557-2/Keystone/view-part/?ref=snap"
+<<<<<<< HEAD
 			(at 99.06 129.54 0)
+=======
+			(at 92.71 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8583,7 +10090,11 @@
 			)
 		)
 		(property "MP" "3557-2"
+<<<<<<< HEAD
 			(at 99.06 129.54 0)
+=======
+			(at 92.71 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8593,7 +10104,11 @@
 			)
 		)
 		(property "Description_1" "THM 2 in 1 Auto Blade Holder"
+<<<<<<< HEAD
 			(at 99.06 129.54 0)
+=======
+			(at 92.71 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8603,7 +10118,11 @@
 			)
 		)
 		(property "MANUFACTURER" "Keystone"
+<<<<<<< HEAD
 			(at 99.06 129.54 0)
+=======
+			(at 92.71 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8613,7 +10132,11 @@
 			)
 		)
 		(property "Availability" "In Stock"
+<<<<<<< HEAD
 			(at 99.06 129.54 0)
+=======
+			(at 92.71 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8623,7 +10146,11 @@
 			)
 		)
 		(property "SNAPEDA_PN" "3557-2"
+<<<<<<< HEAD
 			(at 99.06 129.54 0)
+=======
+			(at 92.71 119.38 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8655,7 +10182,11 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Socket")
+<<<<<<< HEAD
 		(at 67.31 137.16 0)
+=======
+		(at 68.58 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8664,7 +10195,11 @@
 		(fields_autoplaced yes)
 		(uuid "bfcce266-37be-4a56-be20-59143fcd639a")
 		(property "Reference" "3v3out1"
+<<<<<<< HEAD
 			(at 68.58 137.7949 0)
+=======
+			(at 69.85 108.5849 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8673,7 +10208,11 @@
 			)
 		)
 		(property "Value" "~"
+<<<<<<< HEAD
 			(at 68.58 139.7 0)
+=======
+			(at 69.85 110.49 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8682,7 +10221,11 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
+<<<<<<< HEAD
 			(at 67.31 137.16 0)
+=======
+			(at 68.58 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8691,7 +10234,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 67.31 137.16 0)
+=======
+			(at 68.58 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8700,7 +10247,11 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated"
+<<<<<<< HEAD
 			(at 67.31 137.16 0)
+=======
+			(at 68.58 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8725,7 +10276,11 @@
 	)
 	(symbol
 		(lib_id "0_fuse_3557-2:3557-2")
+<<<<<<< HEAD
 		(at 39.37 101.6 0)
+=======
+		(at 38.1 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8734,7 +10289,11 @@
 		(fields_autoplaced yes)
 		(uuid "c30576e2-0e2c-4d67-ba06-5b3dd1334f1d")
 		(property "Reference" "F7"
+<<<<<<< HEAD
 			(at 39.37 95.25 0)
+=======
+			(at 38.1 81.28 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8742,7 +10301,11 @@
 			)
 		)
 		(property "Value" "3557-2"
+<<<<<<< HEAD
 			(at 39.37 97.79 0)
+=======
+			(at 38.1 83.82 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8750,7 +10313,11 @@
 			)
 		)
 		(property "Footprint" "0_FUSE:0_FUSE_3557-2"
+<<<<<<< HEAD
 			(at 39.37 101.6 0)
+=======
+			(at 38.1 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8760,7 +10327,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 39.37 101.6 0)
+=======
+			(at 38.1 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8769,7 +10340,11 @@
 			)
 		)
 		(property "Description" ""
+<<<<<<< HEAD
 			(at 39.37 101.6 0)
+=======
+			(at 38.1 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8778,7 +10353,11 @@
 			)
 		)
 		(property "MF" "Keystone Electronics"
+<<<<<<< HEAD
 			(at 39.37 101.6 0)
+=======
+			(at 38.1 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8788,7 +10367,11 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7.37mm"
+<<<<<<< HEAD
 			(at 39.37 101.6 0)
+=======
+			(at 38.1 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8798,7 +10381,11 @@
 			)
 		)
 		(property "Package" "Nonstandard Keystone"
+<<<<<<< HEAD
 			(at 39.37 101.6 0)
+=======
+			(at 38.1 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8808,7 +10395,11 @@
 			)
 		)
 		(property "Price" "None"
+<<<<<<< HEAD
 			(at 39.37 101.6 0)
+=======
+			(at 38.1 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8818,7 +10409,11 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/3557-2/Keystone/view-part/?ref=eda"
+<<<<<<< HEAD
 			(at 39.37 101.6 0)
+=======
+			(at 38.1 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8828,7 +10423,11 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendation"
+<<<<<<< HEAD
 			(at 39.37 101.6 0)
+=======
+			(at 38.1 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8838,7 +10437,11 @@
 			)
 		)
 		(property "PARTREV" "D"
+<<<<<<< HEAD
 			(at 39.37 101.6 0)
+=======
+			(at 38.1 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8848,7 +10451,11 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/3557-2/Keystone/view-part/?ref=snap"
+<<<<<<< HEAD
 			(at 39.37 101.6 0)
+=======
+			(at 38.1 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8858,7 +10465,11 @@
 			)
 		)
 		(property "MP" "3557-2"
+<<<<<<< HEAD
 			(at 39.37 101.6 0)
+=======
+			(at 38.1 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8868,7 +10479,11 @@
 			)
 		)
 		(property "Description_1" "THM 2 in 1 Auto Blade Holder"
+<<<<<<< HEAD
 			(at 39.37 101.6 0)
+=======
+			(at 38.1 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8878,7 +10493,11 @@
 			)
 		)
 		(property "MANUFACTURER" "Keystone"
+<<<<<<< HEAD
 			(at 39.37 101.6 0)
+=======
+			(at 38.1 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8888,7 +10507,11 @@
 			)
 		)
 		(property "Availability" "In Stock"
+<<<<<<< HEAD
 			(at 39.37 101.6 0)
+=======
+			(at 38.1 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8898,7 +10521,11 @@
 			)
 		)
 		(property "SNAPEDA_PN" "3557-2"
+<<<<<<< HEAD
 			(at 39.37 101.6 0)
+=======
+			(at 38.1 87.63 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8930,7 +10557,11 @@
 	)
 	(symbol
 		(lib_id "0_fuse_3557-2:3557-2")
+<<<<<<< HEAD
 		(at 99.06 99.06 0)
+=======
+		(at 92.71 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8939,7 +10570,11 @@
 		(fields_autoplaced yes)
 		(uuid "c328c8b8-a95e-4947-b06f-8037a58f60e0")
 		(property "Reference" "F4"
+<<<<<<< HEAD
 			(at 99.06 92.71 0)
+=======
+			(at 92.71 82.55 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8947,7 +10582,11 @@
 			)
 		)
 		(property "Value" "3557-2"
+<<<<<<< HEAD
 			(at 99.06 95.25 0)
+=======
+			(at 92.71 85.09 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8955,7 +10594,11 @@
 			)
 		)
 		(property "Footprint" "0_FUSE:0_FUSE_3557-2"
+<<<<<<< HEAD
 			(at 99.06 99.06 0)
+=======
+			(at 92.71 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8965,7 +10608,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 99.06 99.06 0)
+=======
+			(at 92.71 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8974,7 +10621,11 @@
 			)
 		)
 		(property "Description" ""
+<<<<<<< HEAD
 			(at 99.06 99.06 0)
+=======
+			(at 92.71 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8983,7 +10634,11 @@
 			)
 		)
 		(property "MF" "Keystone Electronics"
+<<<<<<< HEAD
 			(at 99.06 99.06 0)
+=======
+			(at 92.71 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8993,7 +10648,11 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7.37mm"
+<<<<<<< HEAD
 			(at 99.06 99.06 0)
+=======
+			(at 92.71 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9003,7 +10662,11 @@
 			)
 		)
 		(property "Package" "Nonstandard Keystone"
+<<<<<<< HEAD
 			(at 99.06 99.06 0)
+=======
+			(at 92.71 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9013,7 +10676,11 @@
 			)
 		)
 		(property "Price" "None"
+<<<<<<< HEAD
 			(at 99.06 99.06 0)
+=======
+			(at 92.71 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9023,7 +10690,11 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/3557-2/Keystone/view-part/?ref=eda"
+<<<<<<< HEAD
 			(at 99.06 99.06 0)
+=======
+			(at 92.71 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9033,7 +10704,11 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendation"
+<<<<<<< HEAD
 			(at 99.06 99.06 0)
+=======
+			(at 92.71 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9043,7 +10718,11 @@
 			)
 		)
 		(property "PARTREV" "D"
+<<<<<<< HEAD
 			(at 99.06 99.06 0)
+=======
+			(at 92.71 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9053,7 +10732,11 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/3557-2/Keystone/view-part/?ref=snap"
+<<<<<<< HEAD
 			(at 99.06 99.06 0)
+=======
+			(at 92.71 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9063,7 +10746,11 @@
 			)
 		)
 		(property "MP" "3557-2"
+<<<<<<< HEAD
 			(at 99.06 99.06 0)
+=======
+			(at 92.71 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9073,7 +10760,11 @@
 			)
 		)
 		(property "Description_1" "THM 2 in 1 Auto Blade Holder"
+<<<<<<< HEAD
 			(at 99.06 99.06 0)
+=======
+			(at 92.71 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9083,7 +10774,11 @@
 			)
 		)
 		(property "MANUFACTURER" "Keystone"
+<<<<<<< HEAD
 			(at 99.06 99.06 0)
+=======
+			(at 92.71 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9093,7 +10788,11 @@
 			)
 		)
 		(property "Availability" "In Stock"
+<<<<<<< HEAD
 			(at 99.06 99.06 0)
+=======
+			(at 92.71 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9103,7 +10802,11 @@
 			)
 		)
 		(property "SNAPEDA_PN" "3557-2"
+<<<<<<< HEAD
 			(at 99.06 99.06 0)
+=======
+			(at 92.71 88.9 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9135,7 +10838,11 @@
 	)
 	(symbol
 		(lib_id "0_fuse_3557-2:3557-2")
+<<<<<<< HEAD
 		(at 39.37 137.16 0)
+=======
+		(at 40.64 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9143,7 +10850,11 @@
 		(dnp no)
 		(uuid "c9b6509b-d452-4938-ae28-c13f15f61340")
 		(property "Reference" "F2"
+<<<<<<< HEAD
 			(at 40.64 130.81 0)
+=======
+			(at 41.91 101.6 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9151,7 +10862,11 @@
 			)
 		)
 		(property "Value" "3557-2"
+<<<<<<< HEAD
 			(at 39.37 133.35 0)
+=======
+			(at 40.64 104.14 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9159,7 +10874,11 @@
 			)
 		)
 		(property "Footprint" "0_FUSE:0_FUSE_3557-2"
+<<<<<<< HEAD
 			(at 39.37 137.16 0)
+=======
+			(at 40.64 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9169,7 +10888,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 39.37 137.16 0)
+=======
+			(at 40.64 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9178,7 +10901,11 @@
 			)
 		)
 		(property "Description" ""
+<<<<<<< HEAD
 			(at 39.37 137.16 0)
+=======
+			(at 40.64 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9187,7 +10914,11 @@
 			)
 		)
 		(property "MF" "Keystone Electronics"
+<<<<<<< HEAD
 			(at 39.37 137.16 0)
+=======
+			(at 40.64 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9197,7 +10928,11 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "7.37mm"
+<<<<<<< HEAD
 			(at 39.37 137.16 0)
+=======
+			(at 40.64 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9207,7 +10942,11 @@
 			)
 		)
 		(property "Package" "Nonstandard Keystone"
+<<<<<<< HEAD
 			(at 39.37 137.16 0)
+=======
+			(at 40.64 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9217,7 +10956,11 @@
 			)
 		)
 		(property "Price" "None"
+<<<<<<< HEAD
 			(at 39.37 137.16 0)
+=======
+			(at 40.64 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9227,7 +10970,11 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/3557-2/Keystone/view-part/?ref=eda"
+<<<<<<< HEAD
 			(at 39.37 137.16 0)
+=======
+			(at 40.64 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9237,7 +10984,11 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendation"
+<<<<<<< HEAD
 			(at 39.37 137.16 0)
+=======
+			(at 40.64 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9247,7 +10998,11 @@
 			)
 		)
 		(property "PARTREV" "D"
+<<<<<<< HEAD
 			(at 39.37 137.16 0)
+=======
+			(at 40.64 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9257,7 +11012,11 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/3557-2/Keystone/view-part/?ref=snap"
+<<<<<<< HEAD
 			(at 39.37 137.16 0)
+=======
+			(at 40.64 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9267,7 +11026,11 @@
 			)
 		)
 		(property "MP" "3557-2"
+<<<<<<< HEAD
 			(at 39.37 137.16 0)
+=======
+			(at 40.64 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9277,7 +11040,11 @@
 			)
 		)
 		(property "Description_1" "THM 2 in 1 Auto Blade Holder"
+<<<<<<< HEAD
 			(at 39.37 137.16 0)
+=======
+			(at 40.64 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9287,7 +11054,11 @@
 			)
 		)
 		(property "MANUFACTURER" "Keystone"
+<<<<<<< HEAD
 			(at 39.37 137.16 0)
+=======
+			(at 40.64 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9297,7 +11068,11 @@
 			)
 		)
 		(property "Availability" "In Stock"
+<<<<<<< HEAD
 			(at 39.37 137.16 0)
+=======
+			(at 40.64 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9307,7 +11082,11 @@
 			)
 		)
 		(property "SNAPEDA_PN" "3557-2"
+<<<<<<< HEAD
 			(at 39.37 137.16 0)
+=======
+			(at 40.64 107.95 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9338,6 +11117,7 @@
 		)
 	)
 	(symbol
+<<<<<<< HEAD
 		(lib_id "Device:R")
 		(at 33.02 43.18 180)
 		(unit 1)
@@ -9406,6 +11186,8 @@
 		)
 	)
 	(symbol
+=======
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(lib_id "power:GND")
 		(at 124.46 52.07 0)
 		(unit 1)
@@ -9474,6 +11256,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+<<<<<<< HEAD
 		(at 36.83 33.02 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9542,6 +11325,9 @@
 	(symbol
 		(lib_id "power:GND")
 		(at 58.42 105.41 0)
+=======
+		(at 60.96 93.98 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9550,7 +11336,11 @@
 		(fields_autoplaced yes)
 		(uuid "dc1eb2b3-0131-45f5-8584-ac8ab907166a")
 		(property "Reference" "#PWR03"
+<<<<<<< HEAD
 			(at 58.42 111.76 0)
+=======
+			(at 60.96 100.33 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9559,7 +11349,11 @@
 			)
 		)
 		(property "Value" "GND"
+<<<<<<< HEAD
 			(at 58.42 110.49 0)
+=======
+			(at 60.96 99.06 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9568,7 +11362,11 @@
 			)
 		)
 		(property "Footprint" ""
+<<<<<<< HEAD
 			(at 58.42 105.41 0)
+=======
+			(at 60.96 93.98 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9577,7 +11375,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 58.42 105.41 0)
+=======
+			(at 60.96 93.98 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9586,7 +11388,11 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+<<<<<<< HEAD
 			(at 58.42 105.41 0)
+=======
+			(at 60.96 93.98 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9608,7 +11414,11 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
+<<<<<<< HEAD
 		(at 59.69 95.25 180)
+=======
+		(at 58.42 81.28 180)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9617,7 +11427,11 @@
 		(fields_autoplaced yes)
 		(uuid "e2e74a22-2b72-4483-a1ed-028248541f53")
 		(property "Reference" "D2"
+<<<<<<< HEAD
 			(at 61.2775 87.63 0)
+=======
+			(at 60.0075 73.66 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9625,7 +11439,11 @@
 			)
 		)
 		(property "Value" "LED"
+<<<<<<< HEAD
 			(at 61.2775 90.17 0)
+=======
+			(at 60.0075 76.2 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9633,7 +11451,11 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+<<<<<<< HEAD
 			(at 59.69 95.25 0)
+=======
+			(at 58.42 81.28 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9642,7 +11464,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 59.69 95.25 0)
+=======
+			(at 58.42 81.28 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9651,7 +11477,11 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+<<<<<<< HEAD
 			(at 59.69 95.25 0)
+=======
+			(at 58.42 81.28 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9660,7 +11490,11 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+<<<<<<< HEAD
 			(at 59.69 95.25 0)
+=======
+			(at 58.42 81.28 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9685,7 +11519,11 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+<<<<<<< HEAD
 		(at 111.76 138.43 90)
+=======
+		(at 52.07 118.11 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9693,7 +11531,11 @@
 		(dnp no)
 		(uuid "e6ac6e5f-1422-4222-8e2c-5c44275d4b2a")
 		(property "Reference" "R3"
+<<<<<<< HEAD
 			(at 111.76 134.62 90)
+=======
+			(at 52.07 114.3 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9701,7 +11543,11 @@
 			)
 		)
 		(property "Value" "220R"
+<<<<<<< HEAD
 			(at 111.76 136.652 90)
+=======
+			(at 52.07 116.332 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9709,7 +11555,11 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+<<<<<<< HEAD
 			(at 111.76 140.208 90)
+=======
+			(at 52.07 119.888 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9718,7 +11568,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 111.76 138.43 0)
+=======
+			(at 52.07 118.11 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9727,7 +11581,11 @@
 			)
 		)
 		(property "Description" "Resistor"
+<<<<<<< HEAD
 			(at 111.76 138.43 0)
+=======
+			(at 52.07 118.11 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9752,7 +11610,11 @@
 	)
 	(symbol
 		(lib_id "Device:R")
+<<<<<<< HEAD
 		(at 50.8 130.81 90)
+=======
+		(at 52.07 101.6 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9760,7 +11622,11 @@
 		(dnp no)
 		(uuid "e736e5f2-f530-49c7-a44e-82bc83b0f83e")
 		(property "Reference" "R2"
+<<<<<<< HEAD
 			(at 50.8 126.746 90)
+=======
+			(at 52.07 97.536 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9768,7 +11634,11 @@
 			)
 		)
 		(property "Value" "220R"
+<<<<<<< HEAD
 			(at 50.8 128.524 90)
+=======
+			(at 52.07 99.314 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9776,7 +11646,11 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+<<<<<<< HEAD
 			(at 50.8 132.588 90)
+=======
+			(at 52.07 103.378 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9785,7 +11659,11 @@
 			)
 		)
 		(property "Datasheet" "~"
+<<<<<<< HEAD
 			(at 50.8 130.81 0)
+=======
+			(at 52.07 101.6 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9794,7 +11672,11 @@
 			)
 		)
 		(property "Description" "Resistor"
+<<<<<<< HEAD
 			(at 50.8 130.81 0)
+=======
+			(at 52.07 101.6 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9819,7 +11701,11 @@
 	)
 	(symbol
 		(lib_id "Diode:SMAJ5.0A")
+<<<<<<< HEAD
 		(at 27.94 105.41 270)
+=======
+		(at 26.67 91.44 270)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9827,7 +11713,11 @@
 		(dnp no)
 		(uuid "e780e901-b8ca-4b7e-991f-c7a3ffcaa721")
 		(property "Reference" "D6"
+<<<<<<< HEAD
 			(at 30.48 104.1399 90)
+=======
+			(at 29.21 90.1699 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9836,7 +11726,11 @@
 			)
 		)
 		(property "Value" "SMAJ5.0A"
+<<<<<<< HEAD
 			(at 23.114 108.204 90)
+=======
+			(at 21.844 94.234 90)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9845,7 +11739,11 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
+<<<<<<< HEAD
 			(at 22.86 105.41 0)
+=======
+			(at 21.59 91.44 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9854,7 +11752,11 @@
 			)
 		)
 		(property "Datasheet" "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet"
+<<<<<<< HEAD
 			(at 27.94 104.14 0)
+=======
+			(at 26.67 90.17 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9863,7 +11765,11 @@
 			)
 		)
 		(property "Description" "400W unidirectional Transient Voltage Suppressor, 5.0Vr, SMA(DO-214AC)"
+<<<<<<< HEAD
 			(at 27.94 105.41 0)
+=======
+			(at 26.67 91.44 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9955,7 +11861,11 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+<<<<<<< HEAD
 		(at 25.4 146.05 0)
+=======
+		(at 26.67 116.84 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9964,7 +11874,11 @@
 		(fields_autoplaced yes)
 		(uuid "f4e66089-6a0f-4d9f-8450-cd35405b0f98")
 		(property "Reference" "#PWR017"
+<<<<<<< HEAD
 			(at 25.4 152.4 0)
+=======
+			(at 26.67 123.19 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9973,7 +11887,11 @@
 			)
 		)
 		(property "Value" "GND"
+<<<<<<< HEAD
 			(at 25.4 151.13 0)
+=======
+			(at 26.67 121.92 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9982,7 +11900,11 @@
 			)
 		)
 		(property "Footprint" ""
+<<<<<<< HEAD
 			(at 25.4 146.05 0)
+=======
+			(at 26.67 116.84 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9991,7 +11913,11 @@
 			)
 		)
 		(property "Datasheet" ""
+<<<<<<< HEAD
 			(at 25.4 146.05 0)
+=======
+			(at 26.67 116.84 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10000,7 +11926,11 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+<<<<<<< HEAD
 			(at 25.4 146.05 0)
+=======
+			(at 26.67 116.84 0)
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
 			(effects
 				(font
 					(size 1.27 1.27)
