@@ -511,7 +511,11 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
+<<<<<<< HEAD
       "step": "Pneumatic.step",
+=======
+      "step": "",
+>>>>>>> 9d1f5c2914493fbddf34687175c6cc0d513c9b39
       "svg": "",
       "vrml": ""
     },
