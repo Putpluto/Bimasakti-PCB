@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "0_CUSTOM_PCB:wheelspeed"
 			(at 0 0 0)
 			(effects
 				(font
