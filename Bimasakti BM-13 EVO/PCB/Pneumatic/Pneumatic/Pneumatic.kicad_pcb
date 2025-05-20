@@ -869,7 +869,7 @@
 		(descr "Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.")
 		(tags "module BlluePill Blue Pill header SWD breakout")
 		(property "Reference" "U3"
-			(at 7.62 -3.81 0)
+			(at 8.3065 -0.0445 0)
 			(layer "F.SilkS")
 			(uuid "444cff18-1c98-41b1-bcda-655c03bba07b")
 			(effects
@@ -12791,8 +12791,8 @@
 		(at 127 62.851 90)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
-		(property "Reference" "D8"
-			(at 0 -1.43 90)
+		(property "Reference" "LED"
+			(at -0.044143 1.685427 90)
 			(layer "F.SilkS")
 			(uuid "89592795-2158-42fa-ab5a-93cb253760ee")
 			(effects
