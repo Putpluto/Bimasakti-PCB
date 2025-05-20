@@ -512,7 +512,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "VCU_v1.step",
+      "step": "../3dmodels/VCU.step",
       "svg": "",
       "vrml": ""
     },
