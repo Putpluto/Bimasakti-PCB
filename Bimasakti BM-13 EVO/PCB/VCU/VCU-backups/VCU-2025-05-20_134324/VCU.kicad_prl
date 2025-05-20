@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 5,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -45,10 +45,11 @@
       "pads",
       "zones",
       "drc_warnings",
+      "locked_item_shadows",
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
+    "visible_layers": "ffffffff_ffffffff_ffffffff_fffffffb",
     "zone_display_mode": 0
   },
   "git": {
@@ -57,7 +58,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Torque Vectoring Board.kicad_prl",
+    "filename": "VCU.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -86,16 +87,16 @@
       9
     ],
     "col_widths": [
-      162,
-      147,
-      91,
-      67,
-      91,
-      91,
-      91,
-      71,
-      91,
-      91
+      186,
+      171,
+      112,
+      79,
+      112,
+      112,
+      112,
+      83,
+      112,
+      112
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

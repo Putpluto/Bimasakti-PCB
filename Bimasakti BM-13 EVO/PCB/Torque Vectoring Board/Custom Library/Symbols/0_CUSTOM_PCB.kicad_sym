@@ -119,7 +119,7 @@
 			(pin input line
 				(at -10.16 -11.43 0)
 				(length 2.54)
-				(name "GND"
+				(name "WS_FR_OUT"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -137,7 +137,7 @@
 			(pin input line
 				(at -10.16 -13.97 0)
 				(length 2.54)
-				(name "GND"
+				(name "WS_FL_OUT"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -155,7 +155,7 @@
 			(pin input line
 				(at -10.16 -16.51 0)
 				(length 2.54)
-				(name "GND"
+				(name "WS_RR_OUT"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -173,7 +173,7 @@
 			(pin input line
 				(at -10.16 -19.05 0)
 				(length 2.54)
-				(name "GND"
+				(name "WS_RL_OUT"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -497,7 +497,7 @@
 			(pin input line
 				(at 11.43 -13.97 180)
 				(length 2.54)
-				(name "GND"
+				(name "RX"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -533,7 +533,7 @@
 			(pin input line
 				(at 11.43 -19.05 180)
 				(length 2.54)
-				(name "GND"
+				(name "TX"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -569,7 +569,7 @@
 			(pin input line
 				(at 11.43 -24.13 180)
 				(length 2.54)
-				(name "GND"
+				(name "SCL"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -605,7 +605,7 @@
 			(pin input line
 				(at 11.43 -29.21 180)
 				(length 2.54)
-				(name "GND"
+				(name "SDA"
 					(effects
 						(font
 							(size 1.27 1.27)
