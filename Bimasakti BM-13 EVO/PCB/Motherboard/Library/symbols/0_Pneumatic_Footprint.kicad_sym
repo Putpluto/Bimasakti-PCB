@@ -71,7 +71,7 @@
 		)
 		(symbol "Pneumatic_Footprint_1_1"
 			(rectangle
-				(start -11.43 -3.81)
+				(start -11.43 -2.54)
 				(end 7.62 -21.59)
 				(stroke
 					(width 0)
@@ -192,7 +192,25 @@
 				)
 			)
 			(pin input line
-				(at 2.54 -1.27 270)
+				(at -1.27 0 270)
+				(length 2.54)
+				(name "GPOS\n"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 2.54 0 270)
 				(length 2.54)
 				(name "5V_IN"
 					(effects
@@ -210,7 +228,7 @@
 				)
 			)
 			(pin input line
-				(at 5.08 -1.27 270)
+				(at 5.08 0 270)
 				(length 2.54)
 				(name "+12V"
 					(effects

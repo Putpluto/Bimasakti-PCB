@@ -1,4 +1,4 @@
-(footprint "YAAJ_BlackPill_1"
+(footprint "Blackpill PLT"
 	(version 20241229)
 	(generator "pcbnew")
 	(generator_version "9.0")
@@ -6903,8 +6903,8 @@
 		(uuid "856212c4-a4a5-4593-8d9d-0d122ebd0905")
 	)
 	(fp_line
-		(start 13.106 -2.816)
-		(end 16.656 -2.816)
+		(start 13.44 -2.816)
+		(end 17.015 -2.816)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -6923,16 +6923,6 @@
 		(uuid "c2dc0193-1ab4-453c-b159-fb864d94f575")
 	)
 	(fp_line
-		(start 16.99 -2.816)
-		(end 16.99 48.768)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "bbd97587-6cb9-4188-9894-b115e4218f95")
-	)
-	(fp_line
 		(start 16.99 48.768)
 		(end 13.44 48.768)
 		(stroke
@@ -6941,6 +6931,16 @@
 		)
 		(layer "F.CrtYd")
 		(uuid "a2e511f6-72f6-4f5b-85e8-a19b4762dd66")
+	)
+	(fp_line
+		(start 17.015 -2.816)
+		(end 16.99 48.768)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bbd97587-6cb9-4188-9894-b115e4218f95")
 	)
 	(fp_line
 		(start 17.78 -4.064)
@@ -7212,17 +7212,6 @@
 		(layer "F.Fab")
 		(uuid "546535f2-f0a1-400d-9c11-838064066a36")
 	)
-	(fp_text user "Y@@J"
-		(at 2.835772 46.338407 270)
-		(layer "Dwgs.User")
-		(uuid "94bd6905-b11b-4217-90b1-2cd460909f20")
-		(effects
-			(font
-				(size 0.5 0.5)
-				(thickness 0.1)
-			)
-		)
-	)
 	(fp_text user "REF**"
 		(at 7.333392 21.458407 90)
 		(layer "F.Fab")
@@ -7253,44 +7242,6 @@
 			(font
 				(size 1 1)
 				(thickness 0.15)
-			)
-		)
-	)
-	(dimension
-		(type orthogonal)
-		(layer "F.SilkS")
-		(uuid "db9477bd-9cf6-4cb5-9054-66abd9fe7afe")
-		(pts
-			(xy -3.21 48.895) (xy -3.302 -3.915)
-		)
-		(height -8.474)
-		(orientation 1)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 0)
-			(precision 4)
-			(suppress_zeroes yes)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "52.81"
-			(at -12.784 22.49 90)
-			(layer "F.SilkS")
-			(uuid "db9477bd-9cf6-4cb5-9054-66abd9fe7afe")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.1)
-				)
 			)
 		)
 	)
@@ -7606,7 +7557,7 @@
 		(remove_unused_layers no)
 		(uuid "dca45d09-46ec-4165-b3db-b1fa2bf048d1")
 	)
-	(pad "39" thru_hole circle
+	(pad "40" thru_hole circle
 		(at 14.906 1.524)
 		(size 1.7 1.7)
 		(drill 1)

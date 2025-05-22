@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "Footprints")(type "KiCad")(uri "D:/bima/Bimasakti-PCB/Bimasakti BM-13 EVO/PCB/Pneumatic/Library/Kicad-STM32-master/Footprints")(options "")(descr ""))
   (lib (name "0_Footprint_PNEUMATIC")(type "KiCad")(uri "D:/bima/Bimasakti-PCB/Bimasakti BM-13 EVO/PCB/VCU BARUU/Library/footprints/0_Footprint_PNEUMATIC.pretty")(options "")(descr ""))
+  (lib (name "st")(type "KiCad")(uri "D:/bima/Bimasakti-PCB/Bimasakti BM-13 EVO/PCB/Pneumatic/Library/footprints/st.pretty")(options "")(descr ""))
+  (lib (name "0_blackpill_f411ceu6")(type "KiCad")(uri "D:/bima/Bimasakti-PCB/Bimasakti BM-13 EVO/PCB/Pneumatic/Library/footprints/0_blackpill_f411ceu6.pretty")(options "")(descr ""))
 )
