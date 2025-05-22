@@ -51,7 +51,7 @@
 		)
 		(symbol "FootprintTelemetry_1_1"
 			(rectangle
-				(start -12.7 21.59)
+				(start -12.7 24.13)
 				(end 12.7 -21.59)
 				(stroke
 					(width 0)
@@ -67,6 +67,24 @@
 				(effects
 					(font
 						(size 2.54 2.54)
+					)
+				)
+			)
+			(pin power_in line
+				(at -15.24 21.59 0)
+				(length 2.54)
+				(name "GPOS"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
 					)
 				)
 			)
