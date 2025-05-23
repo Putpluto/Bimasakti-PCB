@@ -1521,7 +1521,7 @@
 			)
 			(symbol "Pneumatic_Footprint_1_1"
 				(rectangle
-					(start -11.43 -3.81)
+					(start -11.43 -2.54)
 					(end 7.62 -21.59)
 					(stroke
 						(width 0)
@@ -1642,7 +1642,25 @@
 					)
 				)
 				(pin input line
-					(at 2.54 -1.27 270)
+					(at -1.27 0 270)
+					(length 2.54)
+					(name "GPOS\n"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 2.54 0 270)
 					(length 2.54)
 					(name "5V_IN"
 						(effects
@@ -1660,7 +1678,7 @@
 					)
 				)
 				(pin input line
-					(at 5.08 -1.27 270)
+					(at 5.08 0 270)
 					(length 2.54)
 					(name "+12V"
 						(effects
@@ -8618,16 +8636,6 @@
 	)
 	(wire
 		(pts
-			(xy 289.56 213.36) (xy 289.56 214.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "00613621-6001-4bc3-971e-42277220c1c1")
-	)
-	(wire
-		(pts
 			(xy 181.61 173.99) (xy 179.07 173.99)
 		)
 		(stroke
@@ -10615,6 +10623,16 @@
 			(type default)
 		)
 		(uuid "cc9b9aae-242d-413d-8cd1-3b75e2aaaa4e")
+	)
+	(wire
+		(pts
+			(xy 294.64 209.55) (xy 294.64 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cca06c13-2dd5-4dcc-a452-783fd106b65f")
 	)
 	(wire
 		(pts
@@ -13420,7 +13438,7 @@
 	)
 	(global_label "GPOS"
 		(shape input)
-		(at 289.56 213.36 90)
+		(at 294.64 209.55 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13430,7 +13448,7 @@
 		)
 		(uuid "cbac5713-332f-4759-8dcf-704b60b5f311")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 289.56 205.2948 90)
+			(at 294.64 201.4848 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14946,6 +14964,9 @@
 		)
 		(pin "3"
 			(uuid "a0a4d601-647e-4edb-bf77-a17a4fc6789d")
+		)
+		(pin "10"
+			(uuid "6e1dc4eb-61ca-4812-9af8-6b54f542fd76")
 		)
 		(instances
 			(project ""
