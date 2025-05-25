@@ -507,7 +507,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "Torque Vectoring Board_v3.step",
+      "step": "../Assambly VCU/STEP/Torque Vectoring Board_v3.step",
       "svg": "",
       "vrml": ""
     },
