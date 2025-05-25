@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "YAAJ_BlackPill")(type "Legacy")(uri "D:/bima/Bimasakti-PCB/Bimasakti BM-13 EVO/PCB/Pneumatic/Library/Kicad-STM32-master/Symbols/YAAJ_BlackPill.lib")(options "")(descr ""))
+  (lib (name "0_Pneumatic_Footprint")(type "KiCad")(uri "D:/bima/Bimasakti-PCB/Bimasakti BM-13 EVO/PCB/VCU BARUU/Library/symbols/0_Pneumatic_Footprint.kicad_sym")(options "")(descr ""))
+<<<<<<< HEAD:Bimasakti BM-13 EVO/PCB/Pneumatic/Pneumatic-backups/Pneumatic-2025-05-19_231906/sym-lib-table
+  (lib (name "0_stm32f411ceu6_blackpill")(type "KiCad")(uri "D:/bima/Bimasakti-PCB/Bimasakti BM-13 EVO/PCB/Pneumatic/Library/symbols/0_stm32f411ceu6_blackpill.kicad_sym")(options "")(descr ""))
+=======
+>>>>>>> dcae85014ce847ea1ae0e5edb57428bbf0ebcb6f:Bimasakti BM-13 EVO/PCB/Pneumatic/Pneumatic/Pneumatic-backups/Pneumatic-2025-05-19_231906/sym-lib-table
+)
