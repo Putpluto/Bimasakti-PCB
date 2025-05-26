@@ -4,5 +4,8 @@
   (lib (name "0_MCU")(type "KiCad")(uri "${KIPRJMOD}/Custom Library/Footprints/0_MCU.pretty")(options "")(descr ""))
   (lib (name "0_bno055")(type "KiCad")(uri "${KIPRJMOD}/Custom Library/Footprints/0_bno055.pretty")(options "")(descr ""))
   (lib (name "0_CUSTOM_PCB")(type "KiCad")(uri "${KIPRJMOD}/Custom Library/Footprints/0_CUSTOM_PCB.pretty")(options "")(descr ""))
+<<<<<<< HEAD
   (lib (name "0_WHEELSPEED")(type "KiCad")(uri "${KIPRJMOD}/Custom Library/Footprints/0_WHEELSPEED.pretty")(options "")(descr ""))
+=======
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
 )

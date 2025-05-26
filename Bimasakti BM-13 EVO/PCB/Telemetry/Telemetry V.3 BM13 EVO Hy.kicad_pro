@@ -509,7 +509,11 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
+<<<<<<< HEAD
       "step": "../Assambly VCU/Telemetry V.3 BM13 EVO Hy.step",
+=======
+      "step": "../Assambly VCU/STEP/Telemetry V.3 BM13 EVO Hy.step",
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
       "svg": "",
       "vrml": ""
     },

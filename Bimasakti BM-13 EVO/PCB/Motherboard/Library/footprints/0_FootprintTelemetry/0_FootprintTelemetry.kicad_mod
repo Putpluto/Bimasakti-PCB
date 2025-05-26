@@ -7,7 +7,11 @@
 		(at 0 -0.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
+<<<<<<< HEAD
 		(uuid "b12dda6a-ed21-45d6-ada5-57e0b86069d8")
+=======
+		(uuid "b723d214-4d87-464d-958f-5950196cf1d0")
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +23,11 @@
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
+<<<<<<< HEAD
 		(uuid "48bffd06-f683-4617-90f3-8f8145253683")
+=======
+		(uuid "66b5687f-28da-4659-95fb-9e7dc971209f")
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +40,11 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
+<<<<<<< HEAD
 		(uuid "28cc0753-ab3a-45b7-97b6-39fbd83ab2db")
+=======
+		(uuid "995a8ab9-e86f-4dcf-81fa-35b95f991d0f")
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +57,11 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
+<<<<<<< HEAD
 		(uuid "4b8f5012-b853-45f7-a6c4-3543ac67c65a")
+=======
+		(uuid "7e59321b-d665-4991-ad83-f5c41e475eae")
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
 		(effects
 			(font
 				(size 1 1)
@@ -75,6 +91,7 @@
 		(uuid "513877bf-aaa3-4f8a-aed9-ae7e49eefc58")
 	)
 	(fp_line
+<<<<<<< HEAD
 		(start 29.548663 20.959204)
 		(end 33.348663 20.959204)
 		(stroke
@@ -115,6 +132,8 @@
 		(uuid "7efa4f78-8f44-45ac-b296-de8ea776dad2")
 	)
 	(fp_line
+=======
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
 		(start 34.75 35)
 		(end -34.5 35)
 		(stroke
@@ -146,6 +165,7 @@
 		(uuid "2fcc3e22-8206-4e28-935d-66b826834fd4")
 	)
 	(fp_rect
+<<<<<<< HEAD
 		(start -2.651337 5.859204)
 		(end 33.348663 26.859204)
 		(stroke
@@ -157,6 +177,8 @@
 		(uuid "0343724f-ca7b-489a-8870-dd8da4523ca3")
 	)
 	(fp_rect
+=======
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
 		(start 0.348663 6.859204)
 		(end 27.448663 25.859204)
 		(stroke
@@ -167,6 +189,7 @@
 		(layer "F.SilkS")
 		(uuid "61843d11-9f7d-409c-a1c7-d00fccdd1b5f")
 	)
+<<<<<<< HEAD
 	(fp_rect
 		(start 29.548663 18.359204)
 		(end 33.348663 19.359204)
@@ -200,6 +223,8 @@
 		(layer "F.SilkS")
 		(uuid "54f51128-b31c-4810-bf20-d6a17901b999")
 	)
+=======
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
 	(fp_arc
 		(start -41.75 -28)
 		(mid -39.699747 -32.949747)
@@ -244,6 +269,7 @@
 		(layer "F.SilkS")
 		(uuid "03ebcc99-0aaa-4d16-8aa8-a14603053593")
 	)
+<<<<<<< HEAD
 	(fp_text user "Lora E220-900T22D"
 		(at 6.248663 13.959204 0)
 		(unlocked yes)
@@ -257,6 +283,8 @@
 			(justify left bottom)
 		)
 	)
+=======
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
 	(fp_text user "${REFERENCE}"
 		(at 12.348663 18.359204 0)
 		(unlocked yes)

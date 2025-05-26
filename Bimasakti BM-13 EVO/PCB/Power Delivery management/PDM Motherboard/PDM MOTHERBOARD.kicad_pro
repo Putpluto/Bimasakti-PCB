@@ -509,7 +509,11 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
+<<<<<<< HEAD
       "step": "PDM MOTHERBOARD_v4.step",
+=======
+      "step": "PDM MOTHERBOARD_v3.step",
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
       "svg": "",
       "vrml": ""
     },

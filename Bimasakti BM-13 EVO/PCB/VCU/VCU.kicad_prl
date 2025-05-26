@@ -1,6 +1,14 @@
 {
   "board": {
+<<<<<<< HEAD
     "active_layer": 5,
+=======
+<<<<<<< HEAD
+    "active_layer": 0,
+=======
+    "active_layer": 5,
+>>>>>>> dcae85014ce847ea1ae0e5edb57428bbf0ebcb6f
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -49,7 +57,15 @@
       "conflict_shadows",
       "shapes"
     ],
+<<<<<<< HEAD
     "visible_layers": "ffffffff_ffffffff_ffffffff_fffffffa",
+=======
+<<<<<<< HEAD
+    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffdf",
+=======
+    "visible_layers": "ffffffff_ffffffff_ffffffff_fffffffa",
+>>>>>>> dcae85014ce847ea1ae0e5edb57428bbf0ebcb6f
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
     "zone_display_mode": 0
   },
   "git": {
@@ -87,6 +103,7 @@
       9
     ],
     "col_widths": [
+<<<<<<< HEAD
       186,
       171,
       112,
@@ -97,6 +114,18 @@
       83,
       112,
       112
+=======
+      162,
+      147,
+      91,
+      67,
+      91,
+      91,
+      91,
+      71,
+      91,
+      91
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

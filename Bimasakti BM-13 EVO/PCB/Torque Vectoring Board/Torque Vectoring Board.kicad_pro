@@ -193,7 +193,10 @@
         0.254,
         0.35,
         0.508,
+<<<<<<< HEAD
         0.7,
+=======
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
         0.8
       ],
       "tuning_pattern_settings": {
@@ -509,7 +512,11 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
+<<<<<<< HEAD
       "step": "Torque Vectoring Board_v3.step",
+=======
+      "step": "../Assambly VCU/STEP/Torque Vectoring Board_v3.step",
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
       "svg": "",
       "vrml": ""
     },

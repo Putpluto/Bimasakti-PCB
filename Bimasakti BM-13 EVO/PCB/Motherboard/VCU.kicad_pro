@@ -226,6 +226,13 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+<<<<<<< HEAD
+=======
+        },
+        {
+          "diameter": 1.0,
+          "drill": 0.7
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
         }
       ],
       "zones_allow_external_fillets": false
@@ -509,7 +516,11 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
+<<<<<<< HEAD
       "step": "VCU_placeholder_v3.step",
+=======
+      "step": "../Assambly VCU/STEP/VCU_PLACEHOLDER.step",
+>>>>>>> 4575fba4ee51e4b784c247aef22778b05b525b66
       "svg": "",
       "vrml": ""
     },
