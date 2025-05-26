@@ -3,4 +3,5 @@
   (lib (name "AO4407A")(type "KiCad")(uri "${KIPRJMOD}/Custom library/Footprints/AO4407A.pretty")(options "")(descr ""))
   (lib (name "BIMS_BUCK")(type "KiCad")(uri "${KIPRJMOD}/Custom library/Footprints/BIMS_BUCK.pretty")(options "")(descr ""))
   (lib (name "0_FUSE")(type "KiCad")(uri "${KIPRJMOD}/Custom library/Footprints/0_FUSE.pretty")(options "")(descr ""))
+  (lib (name "0_PDM_FOOTPRINT")(type "KiCad")(uri "${KIPRJMOD}/0_PDM_FOOTPRINT.pretty")(options "")(descr ""))
 )

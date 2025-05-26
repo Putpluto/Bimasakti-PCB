@@ -3,4 +3,5 @@
   (lib (name "AO4407A")(type "KiCad")(uri "${KIPRJMOD}/Custom library/Symbols/AO4407A.kicad_sym")(options "")(descr ""))
   (lib (name "0_BUCK")(type "KiCad")(uri "${KIPRJMOD}/Custom library/Symbols/0_BUCK.kicad_sym")(options "")(descr ""))
   (lib (name "0_fuse_3557-2")(type "KiCad")(uri "${KIPRJMOD}/Custom library/Symbols/0_fuse_3557-2.kicad_sym")(options "")(descr ""))
+  (lib (name "0_wheelspeed")(type "KiCad")(uri "D:/bima/Bimasakti-PCB/Bimasakti BM-13 EVO/PCB/Torque Vectoring Board/Custom Library/Symbols/0_wheelspeed.kicad_sym")(options "")(descr ""))
 )
