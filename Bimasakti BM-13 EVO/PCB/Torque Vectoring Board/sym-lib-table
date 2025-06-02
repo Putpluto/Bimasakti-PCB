@@ -3,4 +3,5 @@
   (lib (name "0_MCU")(type "KiCad")(uri "${KIPRJMOD}/Custom Library/Symbols/0_MCU.kicad_sym")(options "")(descr ""))
   (lib (name "0_BNO055")(type "KiCad")(uri "${KIPRJMOD}/Custom Library/Symbols/0_BNO055.kicad_sym")(options "")(descr ""))
   (lib (name "0_CUSTOM_PCB")(type "KiCad")(uri "${KIPRJMOD}/Custom Library/Symbols/0_CUSTOM_PCB.kicad_sym")(options "")(descr ""))
+  (lib (name "0_wheelspeed")(type "KiCad")(uri "${KIPRJMOD}/Custom Library/Symbols/0_wheelspeed.kicad_sym")(options "")(descr ""))
 )

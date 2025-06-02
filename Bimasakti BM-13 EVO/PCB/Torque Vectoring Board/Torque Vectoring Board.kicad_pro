@@ -188,10 +188,12 @@
       ],
       "track_widths": [
         0.0,
+        0.0,
         0.15,
         0.254,
         0.35,
         0.508,
+        0.7,
         0.8
       ],
       "tuning_pattern_settings": {
@@ -507,7 +509,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../Assambly VCU/STEP/Torque Vectoring Board_v3.step",
+      "step": "Torque Vectoring Board_v3.step",
       "svg": "",
       "vrml": ""
     },
