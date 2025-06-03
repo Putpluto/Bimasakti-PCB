@@ -137,7 +137,7 @@
 			(pin input line
 				(at -7.62 -16.51 0)
 				(length 2.54)
-				(name "WS_FR"
+				(name "WS_FL"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -155,7 +155,7 @@
 			(pin input line
 				(at -7.62 -19.05 0)
 				(length 2.54)
-				(name "WS_FL"
+				(name "WS_FR"
 					(effects
 						(font
 							(size 1.27 1.27)
