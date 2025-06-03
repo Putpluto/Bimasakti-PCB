@@ -2853,6 +2853,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 93.98) (xy 261.62 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5616b17b-7266-4444-8080-730fdfd56ff7")
+	)
+	(wire
+		(pts
 			(xy 85.09 53.34) (xy 85.09 54.61)
 		)
 		(stroke
@@ -2910,6 +2920,16 @@
 			(type default)
 		)
 		(uuid "6d4f8ceb-d70b-4653-bec0-bdc54bb61793")
+	)
+	(wire
+		(pts
+			(xy 255.27 99.06) (xy 261.62 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71e4a157-a634-4f8f-8ca8-f25e1b702e8f")
 	)
 	(wire
 		(pts
@@ -3123,6 +3143,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 96.52) (xy 261.62 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7ad1177-63c9-4896-bf19-f3a8b93c2c95")
+	)
+	(wire
+		(pts
 			(xy 226.06 87.63) (xy 233.68 87.63)
 		)
 		(stroke
@@ -3303,6 +3333,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 91.44) (xy 261.62 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3f9e806-8dae-4619-9101-6cb817d2c349")
+	)
+	(wire
+		(pts
 			(xy 233.68 46.99) (xy 233.68 52.07)
 		)
 		(stroke
@@ -3350,6 +3390,16 @@
 			(justify left bottom)
 		)
 		(uuid "0899c8e1-e549-4758-aa25-b7fbe2f0d383")
+	)
+	(label "WS_FR_Signal"
+		(at 261.62 96.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0c9a465a-7ab0-444b-a191-e0b61ad488c0")
 	)
 	(label "TX"
 		(at 83.82 45.72 0)
@@ -3491,6 +3541,16 @@
 		)
 		(uuid "65831910-5603-499d-80c6-b178f183f76b")
 	)
+	(label "WS_RR_Signal"
+		(at 261.62 93.98 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7d2a7b87-22de-43bf-97f0-a42ab97e17c2")
+	)
 	(label "RX"
 		(at 233.68 87.63 0)
 		(effects
@@ -3530,6 +3590,26 @@
 			(justify left bottom)
 		)
 		(uuid "bd080706-49d5-4e83-bb3e-6d6e4387fd31")
+	)
+	(label "WS_FL_Signal"
+		(at 261.62 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c61584ec-e7c1-49bf-8afa-066ea0755da0")
+	)
+	(label "WS_RL_Signal"
+		(at 261.62 91.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cfd600d3-b567-435f-bab0-5b5ebe67371e")
 	)
 	(label "WS_RL_Signal"
 		(at 21.59 88.9 0)
