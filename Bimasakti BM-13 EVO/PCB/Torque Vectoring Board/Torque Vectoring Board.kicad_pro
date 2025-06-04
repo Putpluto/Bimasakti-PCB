@@ -506,7 +506,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "JLC/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "Torque Vectoring Board_v3.step",

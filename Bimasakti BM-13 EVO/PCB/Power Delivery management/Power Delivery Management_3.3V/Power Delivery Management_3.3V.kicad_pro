@@ -504,7 +504,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "JLC/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "Power Delivery Management_3.3V.step",

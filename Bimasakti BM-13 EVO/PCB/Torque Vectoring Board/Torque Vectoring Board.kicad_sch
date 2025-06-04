@@ -2182,23 +2182,25 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at 0 0 0)
+			(property "Reference" "U6"
+				(at 5.9533 -25.4 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
-			(property "Value" ""
-				(at 0 0 0)
+			(property "Value" "~"
+				(at 5.9533 -26.67 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "0_WHEELSPEED:Untitled"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2320,7 +2322,7 @@
 							)
 						)
 					)
-					(number "7"
+					(number "8"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -2338,7 +2340,7 @@
 							)
 						)
 					)
-					(number "8"
+					(number "7"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5164,6 +5166,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 66.04) (xy 218.44 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d3aa286-a2e7-4f11-8497-7923d530aca3")
+	)
+	(wire
+		(pts
 			(xy 229.87 109.22) (xy 241.3 109.22)
 		)
 		(stroke
@@ -5261,16 +5273,6 @@
 			(type default)
 		)
 		(uuid "448fb133-2682-46b0-943b-f5ec201f3295")
-	)
-	(wire
-		(pts
-			(xy 215.9 66.04) (xy 218.44 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "44f76b63-ab92-4b52-818e-92d13b2c4149")
 	)
 	(wire
 		(pts
