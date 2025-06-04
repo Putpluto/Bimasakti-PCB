@@ -1,4 +1,4 @@
-25609803432363030
+25612753695078051
 0_FUSE
 0_FUSE_3557-2
 
@@ -8,27 +8,6 @@
 4
 0_PDM_FOOTPRINT
 Untitled
-
-
-0
-0
-0
-0_logo
-logo bimsak
-
-
-0
-0
-0
-0_logo
-logo_22x15.3
-
-
-0
-0
-0
-0_logo
-qrcode
 
 
 0
@@ -102696,3 +102675,38 @@ Varistor VF
 0
 2
 2
+footprints
+mouse-bite-1mm-slot
+
+
+0
+0
+0
+footprints
+mouse-bite-2.54mm-slot
+
+
+0
+0
+0
+footprints
+mouse-bite-2mm-slot
+
+
+0
+0
+0
+footprints
+mouse-bite-3mm-slot
+
+
+0
+0
+0
+footprints
+mouse-bite-5mm-slot
+
+
+0
+0
+0
