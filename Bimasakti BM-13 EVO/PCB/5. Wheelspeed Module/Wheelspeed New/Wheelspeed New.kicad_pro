@@ -188,7 +188,7 @@
       ],
       "track_widths": [
         0.0,
-        0.3,
+        0.25,
         0.4,
         0.6
       ],
@@ -502,7 +502,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "JLC/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
